@@ -1,0 +1,377 @@
+Afghanistan	Afghanistan
+African Group	African_Group
+African_Group	African_Group
+the African Group	African_Group
+Organisation internationale de la Francophonie	Agence_intergouvernementale_de_la_francophonie
+Agence intergouvernementale de la francophonie	Agence_intergouvernementale_de_la_francophonie
+OIF	Agence_intergouvernementale_de_la_francophonie
+Agence_intergouvernementale_de_la_francophonie	Agence_intergouvernementale_de_la_francophonie
+Albania	Albania
+Algeria	Algeria
+Alliance_of_Small_Island_States	Alliance_of_Small_Island_States
+AOSIS	Alliance_of_Small_Island_States
+Alliance of Small Island States	Alliance_of_Small_Island_States
+#American Samoa	American_Samoa
+#American_Samoa	American_Samoa
+#Samoa	American_Samoa
+Samoa	Samoa
+Angola	Angola
+Antigua_and_Barbuda	Antigua_and_Barbuda
+Antigua and Barbuda	Antigua_and_Barbuda
+Argentina	Argentina
+Armenia	Armenia
+Asian_Group	Asian_Group
+Asia Group	Asian_Group
+Asian Group	Asian_Group
+Australia	Australia
+Austria	Austria
+Azerbaijan_Democratic_Republic	Azerbaijan_Democratic_Republic
+Azerbaijan Democratic Republic	Azerbaijan_Democratic_Republic
+Azerbaijan	Azerbaijan_Democratic_Republic
+Azerbaijan	Azerbaijan
+Bahrain	Bahrain
+Bangladesh	Bangladesh
+Barbados	Barbados
+Belarus	Belarus
+Belgium	Belgium
+Belize	Belize
+Benin	Benin
+Bhutan	Bhutan
+Bolivarian Alliance For The Peoples Of Our America	Bolivarian_Alliance_For_The_Peoples_Of_Our_America
+ALBA	Bolivarian_Alliance_For_The_Peoples_Of_Our_America
+ALBA	ALBA	
+Bolivarian_Alliance_For_The_Peoples_Of_Our_America	Bolivarian_Alliance_For_The_Peoples_Of_Our_America
+Bolivarian States for the Peoples of Our America	Bolivarian_Alliance_For_The_Peoples_Of_Our_America
+Alliance of Bolivarian States for the Peoples of Our America	Bolivarian_Alliance_For_The_Peoples_Of_Our_America
+Bolivarian Alliance	Bolivarian_Alliance_For_The_Peoples_Of_Our_America
+Bolivia	Bolivia
+Bosnia_and_Herzegovina	Bosnia_and_Herzegovina
+Bosnia	Bosnia_and_Herzegovina
+Bosnia and Herzegovina	Bosnia_and_Herzegovina
+Botswana	Botswana
+Brazil	Brazil
+Brunei Darussalam	Brunei
+Brunei	Brunei
+Bulgaria	Bulgaria
+Burkina Faso	Burkina_Faso
+Burkina_Faso	Burkina_Faso
+Burma	Burma
+Myanmar	Burma
+Burundi	Burundi
+Cambodia	Cambodia
+Cameroon	Cameroon
+Canada	Canada
+Cape Verde	Cape_Verde
+Cape_Verde	Cape_Verde
+Cabo Verde	Cape_Verde
+Caribean_Community	Caribean_Community
+CARICOM	Caribbean_Community
+the Caribean Community	Caribbean_Community
+the Caribbean Community	Caribbean_Community
+the CARICOM states	Caribbean_Community
+Caribean Community	Caribbean_Community
+Caribbean Community	Caribbean_Community
+Central African Republic	Central_African_Republic
+Central_African_Republic	Central_African_Republic
+Central America Group	Central_America_Group
+Central_America_Group	Central_America_Group
+Central_American_Integration_System	Central_American_Integration_System
+Central American Integration System	Central_American_Integration_System
+SICA	Central_American_Integration_System
+Central Asia, Caucasus, Albania and Moldova	Central_Asia,_Caucasus,_Albania_and_Moldova
+CACAM	Central_Asia,_Caucasus,_Albania_and_Moldova
+Central_Asia,_Caucasus,_Albania_and_Moldova	Central_Asia,_Caucasus,_Albania_and_Moldova
+Chad	Chad
+Chile	Chile
+China	China
+Coalition of Rainforest Nations	Coalition_for_Rainforest_Nations
+Rainforest Nations Coalition	Coalition_for_Rainforest_Nations
+CfRN	Coalition_for_Rainforest_Nations
+CFRN	Coalition_for_Rainforest_Nations
+Coalition for Rainforest Nations	Coalition_for_Rainforest_Nations
+Rainforest Nations	Coalition_for_Rainforest_Nations
+Coalition_for_Rainforest_Nations	Coalition_for_Rainforest_Nations
+Colombia	Colombia
+Comoros	Comoros
+Cook_Islands	Cook_Islands
+Cook Islands	Cook_Islands
+Costa Rica	Costa_Rica
+Costa_Rica	Costa_Rica
+Croatia	Croatia
+Cuba	Cuba
+Cyprus	Cyprus
+Czech Republic	Czech_Republic
+Czech_Republic	Czech_Republic
+Côte d'Ivoire	Côte_d'Ivoire
+Cote D'ivoire	Côte_d'Ivoire
+Côte_d'Ivoire	Côte_d'Ivoire
+Democratic_Republic_of_the_Congo	Democratic_Republic_of_the_Congo
+Democratic Republic of the Congo	Democratic_Republic_of_the_Congo
+Denmark	Denmark
+Djibouti	Djibouti
+Dominica	Dominica
+Dominican Republic	Dominican_Republic
+Dominican_Republic	Dominican_Republic
+East_Timor	East_Timor
+Timor-Leste	East_Timor
+East Timor	East_Timor
+Eastern European group	Eastern_European_group
+Group of Eastern European Countries	Eastern_European_group
+Eastern_European_group	Eastern_European_group
+EEG	Eastern_European_group
+Ecuador	Ecuador
+Egypt	Egypt
+El Salvador	El_Salvador
+El_Salvador	El_Salvador
+Salvador	El_Salvador
+Environmental_Integrity_Group	Environmental_Integrity_Group
+Environmental Integrity Group	Environmental_Integrity_Group
+Equatorial Guinea	Equatorial_Guinea
+Equatorial_Guinea	Equatorial_Guinea
+Eritrea	Eritrea
+Estonia	Estonia
+Ethiopia	Ethiopia
+European_Union	European_Union
+EU	European_Union
+European Union	European_Union
+The EU	European_Union
+Fiji	Fiji
+Finland	Finland
+France	France
+Gabon	Gabon
+Georgia_(country)	Georgia_(country)
+Georgia	Georgia_(country)
+Georgia (country)	Georgia_(country)
+Germany	Germany
+Ghana	Ghana
+Greece	Greece
+Grenada	Grenada
+Group of 77	Group_of_77
+G 77	Group_of_77
+G-77	Group_of_77
+Group_of_77	Group_of_77
+G- 77	Group_of_77
+G -77	Group_of_77
+G77	Group_of_77
+Guatemala	Guatemala
+Guinea-Bissau	Guinea-Bissau
+Guyana	Guyana
+Haiti	Haiti
+Honduras	Honduras
+Hungary	Hungary
+Iceland	Iceland
+AILAC	Independent_association_of_Latin_America_and_the_Caribbean
+Independent_association_of_Latin_America_and_the_Caribbean	Independent_association_of_Latin_America_and_the_Caribbean
+Independent association of Latin America and the Caribbean	Independent_association_of_Latin_America_and_the_Caribbean
+Independent Alliance of Latin America and the Caribbean	Independent_association_of_Latin_America_and_the_Caribbean
+Association of Independent Latin American and Caribbean States	Independent_association_of_Latin_America_and_the_Caribbean
+Alliance of Independent Latin American and Caribbean States	Independent_association_of_Latin_America_and_the_Caribbean
+India	India
+Indonesia	Indonesia
+Iran	Iran
+Iraq	Iraq
+Israel	Israel
+Italy	Italy
+Jamaica	Jamaica
+Japan	Japan
+Jordan	Jordan
+Kazakhstan	Kazakhstan
+Kenya	Kenya
+Kiribati	Kiribati
+Kuwait	Kuwait
+Kyrgyzstan	Kyrgyzstan
+Lao People's Democratic Republic	Laos
+Laos	Laos
+Latin American and Caribbean Group	Latin_American_and_Caribbean_Group
+Latin_American_and_Caribbean_Group	Latin_American_and_Caribbean_Group
+Group of Latin American and Caribbean States	Latin_American_and_Caribbean_Group
+Group of Latin American and Caribbean Countries	Latin_American_and_Caribbean_Group
+GRULAC	Latin_American_and_Caribbean_Group
+Latvia	Latvia
+Arab States Group	League_of_Arab_States
+League of Arab States	League_of_Arab_States
+Arab Group	League_of_Arab_States
+League_of_Arab_States	League_of_Arab_States
+Group of Arab States	League_of_Arab_States
+Arab League	League_of_Arab_States
+the LDC	Least_Developed_Country
+the LDCs	Least_Developed_Country
+LDC	Least_Developed_Country
+LDCs	Least_Developed_Country
+Least_Developed_Country	Least_Developed_Country
+Least Developed Country	Least_Developed_Country
+Lebanon	Lebanon
+Lesotho	Lesotho
+Liberia	Liberia
+Libya	Libya
+Liechtenstein	Liechtenstein
+Like-Minded Group	Like_Minded_Group
+the LMDC	Like_Minded_Group
+LMDC	Like_Minded_Group
+LMDCs	Like_Minded_Group
+Like Minded Group	Like_Minded_Group
+the LMDCs	Like_Minded_Group
+Group of Like-Minded	Like_Minded_Group
+Like_Minded_Group	Like_Minded_Group
+Lithuania	Lithuania
+Luxembourg	Luxembourg
+Madagascar	Madagascar
+Malawi	Malawi
+Malaysia	Malaysia
+Maldives	Maldives
+Mali	Mali
+Malta	Malta
+Marshall Islands	Marshall_Islands
+Marshall_Islands	Marshall_Islands
+Mauritania	Mauritania
+Mauritius	Mauritius
+Mexico	Mexico
+Micronesia	Micronesia
+Republic of Moldova	Moldova
+Moldova	Moldova
+Monaco	Monaco
+Mongolia	Mongolia
+Montenegro	Montenegro
+Morocco	Morocco
+Mozambique	Mozambique
+Namibia	Namibia
+Nauru	Nauru
+Nepal	Nepal
+Netherlands	Netherlands
+New Zealand	New_Zealand
+New_Zealand	New_Zealand
+Nicaragua	Nicaragua
+Niger	Niger
+Nigeria	Nigeria
+Niue	Niue
+Democratic People's Republic of Korea	North_Korea
+North_Korea	North_Korea
+North Korea	North_Korea
+Norway	Norway
+Oman	Oman
+Organisation_for_Economic_Co-operation_and_Development	Organisation_for_Economic_Co-operation_and_Development
+Organization for Economic Cooperation and Development	Organisation_for_Economic_Co-operation_and_Development
+Organisation for Economic Co-operation and Development	Organisation_for_Economic_Co-operation_and_Development
+OECD	Organisation_for_Economic_Co-operation_and_Development
+Organization of Petroleum Exporting Countries	Organization_of_Petroleum_Exporting_Countries
+Organization_of_Petroleum_Exporting_Countries	Organization_of_Petroleum_Exporting_Countries
+OPEC	Organization_of_Petroleum_Exporting_Countries
+Pakistan	Pakistan
+Palau	Palau
+Panama	Panama
+Papua_New_Guinea	Papua_New_Guinea
+Papua New Guinea	Papua_New_Guinea
+Paraguay	Paraguay
+Peru	Peru
+Philippines	Philippines
+Poland	Poland
+Portugal	Portugal
+Qatar	Qatar
+Republic of Ireland	Republic_of_Ireland
+Ireland	Republic_of_Ireland
+Republic_of_Ireland	Republic_of_Ireland
+Republic of Macedonia	Republic_of_Macedonia
+Republic_of_Macedonia	Republic_of_Macedonia
+Macedonia	Republic_of_Macedonia
+Republic_of_the_Congo	Republic_of_the_Congo
+Republic of the Congo	Republic_of_the_Congo
+Romania	Romania
+Russian Federation	Russia
+Russia	Russia
+Rwanda	Rwanda
+Saint Kitts and Nevis	Saint_Kitts_and_Nevis
+Saint_Kitts_and_Nevis	Saint_Kitts_and_Nevis
+Kitts and Nevis	Saint_Kitts_and_Nevis
+Kitts Nevis	Saint_Kitts_and_Nevis
+Kitts & Nevis	Saint_Kitts_and_Nevis
+Saint_Lucia	Saint_Lucia
+Saint Lucia	Saint_Lucia
+Saint_Vincent_and_the_Grenadines	Saint_Vincent_and_the_Grenadines
+Saint Vincent and the Grenadines	Saint_Vincent_and_the_Grenadines
+Saint Vincent and Grenadines	Saint_Vincent_and_the_Grenadines
+San_Marino	San_Marino
+San Marino	San_Marino
+Saudi Arabia	Saudi_Arabia
+Saudi_Arabia	Saudi_Arabia
+Senegal	Senegal
+Serbia	Serbia
+Serbia and Montenegro	Serbia_and_Montenegro
+Serbia_and_Montenegro	Serbia_and_Montenegro
+Seychelles	Seychelles
+Sierra_Leone	Sierra_Leone
+Sierra Leone	Sierra_Leone
+Singapore	Singapore
+Slovakia	Slovakia
+Slovenia	Slovenia
+Solomon Islands	Solomon_Islands
+Solomon_Islands	Solomon_Islands
+Somalia	Somalia
+South_Africa	South_Africa
+South Africa	South_Africa
+South Korea	South_Korea
+Republic of Korea	South_Korea
+South_Korea	South_Korea
+Spain	Spain
+Sri_Lanka	Sri_Lanka
+Sri Lanka	Sri_Lanka
+Sudan	Sudan
+Suriname	Suriname
+Swaziland	Swaziland
+Sweden	Sweden
+Switzerland	Switzerland
+Syria	Syria
+Syrian Arab Republic	Syria
+Sao Tomé and Principe	São_Tomé_and_Príncipe
+São Tomé and Príncipe	São_Tomé_and_Príncipe
+São_Tomé_and_Príncipe	São_Tomé_and_Príncipe
+Tajikistan	Tajikistan
+United Republic of Tanzania	Tanzania
+Tanzania	Tanzania
+Thailand	Thailand
+The Bahamas	The_Bahamas
+Bahamas	The_Bahamas
+The_Bahamas	The_Bahamas
+Gambia	The_Gambia
+The Gambia	The_Gambia
+The_Gambia	The_Gambia
+Togo	Togo
+Tonga	Tonga
+Trinidad_and_Tobago	Trinidad_and_Tobago
+Trinidad and Tobago	Trinidad_and_Tobago
+Tunisia	Tunisia
+Turkey	Turkey
+Turkmenistan	Turkmenistan
+Tuvalu	Tuvalu
+Uganda	Uganda
+Ukraine	Ukraine
+United Arab Emirates	United_Arab_Emirates
+United_Arab_Emirates	United_Arab_Emirates
+United_Kingdom	United_Kingdom
+The UK	United_Kingdom
+United Kingdom	United_Kingdom
+UK	United_Kingdom
+U.K.	United_Kingdom
+U.K	United_Kingdom
+United States	United_States
+The US	United_States
+United States of America	United_States
+United_States	United_States
+USA	United_States
+US	United_States
+U.S.	United_States
+U.S	United_States
+Uruguay	Uruguay
+Uzbekistan	Uzbekistan
+Valdivia_Group	Valdivia_Group
+Valdivia Group	Valdivia_Group
+Vanuatu	Vanuatu
+Venezuela	Venezuela
+Viet Nam	Vietnam
+Vietnam	Vietnam
+Western_European_and_Others_Group	Western_European_and_Others_Group
+WEOG	Western_European_and_Others_Group
+Western European and Others Group	Western_European_and_Others_Group
+Yemen	Yemen
+Yugoslavia	Yugoslavia
+Zambia	Zambia
+Zimbabwe	Zimbabwe

@@ -1,0 +1,142 @@
+*swp
+.idea
+migrations
+#utils.py
+
+# will need this if add slider from https://github.com/seiyria/bootstrap-slider
+webuibo/ui/static/css/bootstrap-slider.css
+webuibo/ui/static/js/bootstrap-slider.js
+
+# bkps to ignore
+webuibo/ext_data/json/Backup\ 1\ of\ data_all_new_final_restrict_to_pointmentions.json
+"webuibo/ext_data/json/Backup 1 of data_all_new_final_restrict_to_pointmentions.json"
+
+# temp data to ignore
+
+webuibo/ext_data/json/test_pickle_out_08_avril_contains_new_sentences_and_props_all_types_on_top_of_30_jan_export.txt.json
+webuibo/ext_data/json/test_pickle_out_08_avril_contains_new_sentences_and_props_all_types_on_top_of_30_jan_export.txt_final.json
+webuibo/ext_data/json/test_pickle_out_08_avril_contains_new_sentences_and_props_all_types_on_top_of_30_jan_export.txt_final.json_BEFORE_MIXING_WITH_ALL_ENTITIES.json
+webuibo/ext_data/json/test_pickle_out_08_avril_contains_new_sentences_and_props_all_types_on_top_of_30_jan_export.txt_meta6.json
+webuibo/ext_data/json/test_pickle_out_08_avril_contains_new_sentences_and_props_all_types_on_top_of_30_jan_export.txt_meta7.json
+webuibo/ext_data/txt/BAD_enb_keyphrases_to_add_04152016.txt
+webuibo/ext_data/json/fixture_04162016.json
+
+webuibo/ext_data/json/data_all_2000.json
+webuibo/ext_data/json/data_all_2000_2.json
+webuibo/ext_data/json/data_all_2000_wtype_new_ids.json
+webuibo/ext_data/json/test_sent_name2.json
+webuibo/ext_data/json/test_sent_name3.json
+webuibo/ext_data/json/test_sent_name4.json
+webuibo/ext_data/json/test_sent_name5.json
+webuibo/ext_data/json/test_sent_name.json
+webuibo/ext_data/json/test_sent_name_sorted2.json
+
+webuibo/ext_data/json/all_corpus_export_format_2.txt_meta.json
+webuibo/ext_data/json/data_all_2000_new_wtype_sent_name_sorted.json
+webuibo/ext_data/json/data_all_2000_new_wtype_sent_name_sorted_final.json
+webuibo/ext_data/json/data_all_2000_wtype_sent_name_sorted_interm_final.json
+webuibo/ext_data/json/data_all_2000_wtype_sent_name_sorted_more2_meta2.json
+webuibo/ext_data/json/data_all_2000_new_wtype_sent_name_sorted_final.json.bkp
+webuibo/ext_data/json/data_all_2000_wtype_sent_name_sorted_final.json.bkp
+webuibo/ext_data/json/data_all_new.json
+webuibo/ext_data/json/data_all_new_final.json
+webuibo/ext_data/json/data_all_new_meta.json
+webuibo/ext_data/json/all_corpus_export_format_2.BKP.txt.json
+webuibo/ext_data/json/all_corpus_export_format_2.BKP.txt_final.json
+webuibo/ext_data/json/all_corpus_export_format_2.BKP.txt_meta.json
+webuibo/ext_data/json/selected_propositions_2000_wtype_NEW.txt.json
+webuibo/ext_data/json/selected_propositions_2000_wtype_NEW.txt_meta.json
+webuibo/ext_data/txt/all_corpus_export_format_2.BKP.txt
+webuibo/ext_data/txt/selected_propositions_2000_wtype_NEW.txt
+webuibo/ext_data/txt/s3.txt
+webuibo/ext_data/txt/s4.txt
+webuibo/ext_data/txt/s5.txt
+
+webuibo/ext_data/json/.json
+webuibo/ext_data/json/test_pickle_out_30_jan_accept_incomplete_with_actor_types.txt.json
+webuibo/ext_data/json/test_pickle_out_30_jan_accept_incomplete_with_actor_types.txt_final.json
+webuibo/ext_data/json/test_pickle_out_30_jan_accept_incomplete_with_actor_types.txt_meta.json
+
+webuibo/ext_data/json/test_pickle_out_30_jan_actor_postpro_5_accept_incomplete_with_actor_types.txt.json
+webuibo/ext_data/json/test_pickle_out_30_jan_actor_postpro_5_accept_incomplete_with_actor_types.txt_final.json
+webuibo/ext_data/json/test_pickle_out_30_jan_actor_postpro_5_accept_incomplete_with_actor_types.txt_meta.json
+webuibo/ext_data/json/test_pickle_out_30_jan_actor_postpro_7_accept_incomplete_with_actor_types.txt.json
+webuibo/ext_data/json/test_pickle_out_30_jan_actor_postpro_7_accept_incomplete_with_actor_types.txt_final.json
+webuibo/ext_data/json/test_pickle_out_30_jan_actor_postpro_7_accept_incomplete_with_actor_types.txt_meta.json
+
+
+webuibo/ext_data/json/test_pickle_out_30_jan_actor_postpro_13_with_confsco_accept_incomplete_with_actor_types.txt.json
+webuibo/ext_data/json/test_pickle_out_30_jan_actor_postpro_13_with_confsco_accept_incomplete_with_actor_types.txt_final.json
+webuibo/ext_data/json/test_pickle_out_30_jan_actor_postpro_13_with_confsco_accept_incomplete_with_actor_types.txt_final_OLD.json
+webuibo/ext_data/json/test_pickle_out_30_jan_actor_postpro_13_with_confsco_accept_incomplete_with_actor_types.txt_meta.json
+
+webuibo/ext_data/json/FORTESTS_test_pickle_out_30_jan_actor_postpro_13_with_confsco_accept_incomplete_with_actor_types.txt.json
+webuibo/ext_data/json/FORTESTS_test_pickle_out_30_jan_actor_postpro_13_with_confsco_accept_incomplete_with_actor_types.txt_interm.json
+webuibo/ext_data/json/FORTESTS_test_pickle_out_30_jan_actor_postpro_13_with_confsco_accept_incomplete_with_actor_types.txt_meta2.json
+webuibo/ext_data/json/FORTESTS_test_pickle_out_30_jan_actor_postpro_13_with_confsco_accept_incomplete_with_actor_types.txt_meta3.json
+webuibo/ext_data/json/FORTESTS_test_pickle_out_30_jan_actor_postpro_13_with_confsco_accept_incomplete_with_actor_types.txt_meta4.json
+webuibo/ext_data/json/FORTESTS_test_pickle_out_30_jan_actor_postpro_13_with_confsco_accept_incomplete_with_actor_types.txt_meta5.json
+webuibo/ext_data/json/FORTESTS_test_pickle_out_30_jan_actor_postpro_13_with_confsco_accept_incomplete_with_actor_types.txt_meta6.json
+webuibo/ext_data/json/data_all_new_final6.json
+
+
+# https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore
+# Compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/

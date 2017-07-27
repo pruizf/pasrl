@@ -1,0 +1,431 @@
+##kps to filter
+# behalf of ...
+behalf of the caribbean community
+behalf of the visegrad group of central european c...
+behalf of the g-77/china
+behalf of aosis
+behalf of the g77/china
+behalf of peru
+behalf of the philippines
+behalf of the eu
+behalf of the g-77
+behalf of the eig
+behalf of algeria
+behalf of the ldcs
+behalf of the environmental integrity group
+behalf of the coalition
+behalf of the african states
+behalf of the central group
+behalf of the us
+behalf of outgoing cop
+behalf of ldcs
+behalf of the africa group
+behalf of caribbean community
+behalf of president of peru ollanta humala
+behalf of president
+behalf of elissavet papazoe
+behalf of corinne lepage
+behalf of venezuela
+behalf of king mohammed vi
+behalf of the arabian countries group
+behalf of the conference of parties request climat...
+behalf of the valdivia group
+behalf of the arab group
+behalf of the umbrella group
+behalf of alba
+behalf of g-77
+behalf of the central american integration system
+behalf of the african group
+behalf of norway
+##### other
+adequate
+predictable
+nepal spain
+cop president korolec
+japan preferred language
+preferred language
+behalf of the eu
+eduardo calvo buendía
+calvo buendía
+paul martin
+awg look
+reference to
+option of a
+important
+cop
+president korolec
+new guinea
+jacques chirac
+annex i
+annex i.
+annex i. turkey
+annex i. the eu
+annex i. the us
+annex i. delegates
+climate change
+x
+arab emirates
+i parties
+parties
+umbrella group
+i countries
+g- 77/china
+i communications
+new
+this
+behalf of the g-77
+i national communications
+president pronk
+preferred
+its
+unfccc
+john ashe
+i party
+behalf of the g-77/china
+hoc working group
+doha
+be
+option c
+i commitments
+ii parties
+behalf of aosis
+issue
+cancun
+bo kjellén
+adrian macey
+edna molewa
+goal
+â
+will
+mountainous landlocked developing
+chair dovland
+zammit cutajar
+chair stoycheva
+use
+the base year
+helen plume
+kee chow
+kishan kumarsingh
+our america
+madeleine diouf
+i emission reductions
+leon charles
+i emissions
+i country
+i further commitments
+i emission reductions targets
+i polluters
+i asian countries
+i objectives
+i status
+i of the fccc
+i parties report
+i data
+i emissions trends
+i mitigation targets
+i response measures
+i net aggregate co2
+i of the draft decision text
+i party commitments
+i greenhouse gas emissions
+i responsibilities
+i board members
+## actor variants, to filter
+the g-77/china
+canada
+australia
+austria
+belarus
+belgium
+bulgaria
+caribean community
+caribbean community
+caricom
+the caribean community
+the caribbean community
+the caricom states
+croatia
+cyprus
+czech republic
+denmark
+estonia
+eu
+european union
+the eu
+finland
+france
+germany
+greece
+hungary
+iceland
+italy
+japan
+kazakhstan
+netherlands
+latvia
+liechtenstein
+lithuania
+luxembourg
+malta
+monaco
+new zealand
+norway
+poland
+portugal
+ireland
+republic of ireland
+romania
+russia
+russian federation
+slovakia
+slovenia
+spain
+sweden
+switzerland
+turkey
+ukraine
+the uk
+united kingdom
+the us
+united states
+united states of america
+us
+cote d'ivoire
+côte d'ivoire
+afghanistan
+albania
+algeria
+american samoa
+samoa
+angola
+antigua and barbuda
+argentina
+armenia
+azerbaijan
+azerbaijan democratic republic
+bahrain
+bangladesh
+barbados
+belize
+benin
+bhutan
+bolivia
+bosnia
+bosnia and herzegovina
+botswana
+brazil
+brunei
+brunei darussalam
+burkina faso
+myanmar
+burundi
+cambodia
+cameroon
+cabo verde
+cape verde
+central african republic
+chad
+chile
+china
+colombia
+comoros
+cook islands
+costa rica
+cuba
+cyprus
+democratic republic of the congo
+djibouti
+dominica
+dominican republic
+east timor
+timor-leste
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+ethiopia
+fiji
+gabon
+georgia
+georgia (country)
+ghana
+grenada
+guatemala
+guinea-bissau
+guyana
+haiti
+honduras
+india
+indonesia
+iran
+iraq
+israel
+jamaica
+jordan
+kazakhstan
+kenya
+kiribati
+kuwait
+kyrgyzstan
+lao people's democratic republic
+laos
+lebanon
+lesotho
+liberia
+libya
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+mauritania
+mauritius
+mexico
+micronesia
+moldova
+republic of moldova
+mongolia
+montenegro
+morocco
+mozambique
+namibia
+nauru
+nepal
+nicaragua
+niger
+nigeria
+niue
+democratic people's republic of korea
+north korea
+oman
+pakistan
+palau
+panama
+papua new guinea
+paraguay
+peru
+philippines
+qatar
+macedonia
+republic of macedonia
+republic of the congo
+rwanda
+kitts and nevis
+saint kitts and nevis
+saint lucia
+saint vincent and grenadines
+saint vincent and the grenadines
+san marino
+sao tomé and principe
+são tomé and príncipe
+saudi arabia
+senegal
+serbia
+seychelles
+sierra leone
+singapore
+solomon islands
+somalia
+south africa
+republic of korea
+south korea
+sri lanka
+sudan
+suriname
+swaziland
+syria
+syrian arab republic
+tajikistan
+tanzania
+united republic of tanzania
+thailand
+bahamas
+the bahamas
+gambia
+the gambia
+togo
+tonga
+trinidad and tobago
+tunisia
+turkmenistan
+tuvalu
+uganda
+united arab emirates
+uruguay
+uzbekistan
+vanuatu
+venezuela
+viet nam
+vietnam
+yemen
+zambia
+zimbabwe
+asia group
+asian group
+africa group
+african group
+the african group
+alba
+alliance of bolivarian states for the peoples of our america
+bolivarian alliance
+bolivarian alliance for the peoples of our america
+bolivarian states for the peoples of our america
+alliance of small island states
+aosis
+central america group
+cacam
+central asia
+caucasus
+albania and moldova
+cfrn
+eastern european group
+eeg
+group of eastern european countries
+eig
+environmental integrity group
+g -77
+g 77
+g- 77
+g-77
+g77
+group of 77
+ailac
+alliance of independent latin american and caribbean states
+association of independent latin american and caribbean states
+independent alliance of latin america and the caribbean
+independent association of latin america and the caribbean
+group of latin american and caribbean countries
+group of latin american and caribbean states
+grulac
+latin american and caribbean group
+arab group
+arab league
+arab states group
+group of arab states
+league of arab states
+ldc
+ldcs
+least developed country
+the ldc
+the ldcs
+group of like-minded
+like minded group
+like-minded group
+lmdc
+lmdcs
+the lmdc
+the lmdcs
+oecd
+organisation for economic co-operation and development
+organization for economic cooperation and development
+opec
+organization of petroleum exporting countries
+umbrella group
+valdivia group
+weog
+western european and others group
+yugoslavia
+serbia and montenegro

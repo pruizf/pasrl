@@ -1,0 +1,6 @@
+pids
+pids/
+*pyc
+*~
+.idea
+srlpid

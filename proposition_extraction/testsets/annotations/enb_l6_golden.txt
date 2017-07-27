@@ -1,0 +1,554 @@
+# Evaluate case insensitive, stripping leading and trailing whitespace and punctuation to each item
+# Sentence is identified with ">>>". Three linebreaks between each item, one linebreak between propositions of same item
+# Format of reference annotations is actor(s)\tpredicate\tnegotiation_point
+# § separates actors. One proposition is created with each actor after splitting the actors field on the § character. 
+
+
+1>>> Finland, on behalf of the European Union (EU), highlighted the Stern Review and stressed the need for long-term action where adaptation complements mitigation.
+
+Finland§European_Union	highlighted	the Stern Review
+Finland§European_Union	stressed	the need for long-term action where adaptation complements mitigation.
+
+
+2>>> Algeria, on behalf of the G-77, urged parties to the Convention not to go beyond the original mandate.
+
+Algeria§Group_of_77	urged	parties to the Convention§not to go beyond the original mandate.
+
+
+3>>> Trinidad and Tobago, on behalf of AOSIS, said the recommendations to COP-1 should include initiating negotiations on a protocol.
+
+Trinidad_and_Tobago§Alliance_of_Small_Island_States	said	the recommendations to COP-1 should include initiating negotiations on a protocol.
+
+
+4>>> The US, supported by the EU, suggested that workshops be organized based on status of preparation of communications, rather than on regions.
+
+United_States§European_Union	suggested	that workshops be organized based on status of preparation of communications, rather than on regions.
+
+
+5>>> Argentina, on behalf of a group of developing countries, and China said measures taken on climate change under the IMO and ICAO should respect the principles and provisions of the Convention, in particular common but differentiated responsibilities (CBDR).
+
+Argentina§China	said	measures taken on climate change under the IMO and ICAO should respect the principles and provisions of the Convention, in particular common but differentiated responsibilities (CBDR).
+
+6>>> CANADA, supported by the US, preferred deciding that the ADP ``should aim to" prepare a negotiating text instead of ``shall." 
+
+Canada§United_States	preferred	deciding that the ADP ``should aim to" prepare a negotiating text instead of ``shall."
+
+
+7>>> This was opposed by the LDCs who cautioned against ``slippage in timing." 
+
+Least_Developed_Country	cautioned	against ``slippage in timing."
+Least_Developed_Country	opposed	this
+
+
+8>>> Benin said the texts are an ``excellent" and ``significant" step forward towards achieving an international agreement supported by both developed and developing countries.
+
+Benin	said	the texts are an ``excellent" and ``significant" step forward towards achieving an international agreement supported by both developed and developing countries.
+
+
+9>>> SAUDI ARABIA, supported by the UNITED ARAB EMIRATES and QATAR, noted that the issue had been pending for ``a very long time" but requested that reference linking a workshop on 1/CP.10 to a workshop on Protocol Articles 2.3 and 3.14 be deleted.
+
+Saudi_Arabia§United_Arab_Emirates§Qatar	noted	that the issue had been pending for ``a very long time"
+Saudi_Arabia§United_Arab_Emirates§Qatar	requested	that reference linking a workshop on 1/CP.10 to a workshop on Protocol Articles 2.3 and 3.14 be deleted.
+
+
+10>>> The EU, supported by many parties, proposed a draft decision to strengthen the implementation of decision 36/CP.7 (enhancing participation of women in UNFCCC bodies).
+
+European_Union	proposed	a draft decision to strengthen the implementation of decision 36/CP.7 (enhancing participation of women in UNFCCC bodies).
+
+
+11>>> CHINA, supported by NIGERIA, SYRIAN ARAB REPUBLIC, OMAN and BRAZIL, stressed the need to mobilize funding for the Adaptation Fund.
+
+China§NIGERIA§SYRIA§OMAN§BRAZIL	stressed	the need to mobilize funding for the Adaptation Fund.
+
+
+12>>> Tuvalu, supported by AOSIS, argued that this agenda item required formal consideration, and proposed suspending the COP until the issue is resolved.
+
+Tuvalu§Alliance_of_Small_Island_States	argued	that this agenda item required formal consideration
+Tuvalu§Alliance_of_Small_Island_States	proposed	suspending the COP until the issue is resolved.
+
+
+13>>> The EU, supported by Japan, preferred referring to efforts that parties are able to ``undertake," instead of ``make unilaterally."
+
+European_Union§Japan	preferred	referring to efforts that parties are able to ``undertake," instead of ``make unilaterally."
+
+
+14>>> Noting potential use of quantitative or qualitative methodologies, Brazil supported ``developing countries may also clarify the extent to which enhanced efforts are dependent upon the provision of support." 
+
+Brazil	noting	potential use of quantitative or qualitative methodologies
+Brazil	supported	``developing countries may also clarify the extent to which enhanced efforts are dependent upon the provision of support."
+
+
+15>>> Papua New Guinea, supported by Costa Rica, Malaysia and Thailand, expressed concern that the option on land-based accounting was omitted from the Chair's draft text.
+Papua_New_Guinea§Costa_Rica§Malaysia§Thailand	expressed	concern that the option on land-based accounting was omitted from the Chair's draft text.
+
+
+16>>> The EU, supported by the US and JAPAN, said donors should not place their resources in the hands of the COP.
+
+European_Union§United_States§JAPAN	said	donors should not place their resources in the hands of the COP.
+
+
+17>>> AOSIS, supported by SWITZERLAND and MEXICO, proposed a work programme on areas of high mitigation potential with an initial focus on energy efficiency and renewable energy.
+
+Alliance_of_Small_Island_States§SWITZERLAND§MEXICO	proposed	a work programme on areas of high mitigation potential with an initial focus on energy efficiency and renewable energy.
+
+
+18>>> On the plenary of the Compliance Committee, the G- 77/CHINA, opposed by the US, EU, AUSTRALIA, RUSSIAN FEDERATION and NEW ZEALAND, said it should have an allocation as well as a preliminary examination function.
+
+Group_of_77§CHINA	said	it should have an allocation as well as a preliminary examination function.§On the plenary of the Compliance Committee
+United_States§European_Union§AUSTRALIA§RUSSIA§NEW_ZEALAND	not said	it should have an allocation as well as a preliminary examination function.§On the plenary of the Compliance Committee
+
+
+19>>> The EU, opposed by the G-77/CHINA, said the objective of the SCCF is to assist developing countries to integrate climate change factors into national sustainable development and poverty reduction strategies, and their implementation.
+
+European_Union	said	the objective of the SCCF is to assist developing countries to integrate climate change factors into national sustainable development and poverty reduction strategies, and their implementation.
+Group_of_77§CHINA	not said	the objective of the SCCF is to assist developing countries to integrate climate change factors into national sustainable development and poverty reduction strategies, and their implementation.
+
+
+20>>> Saudi Arabia, supported by Oman and the EU, and opposed by Canada, requested the exclusion of a Canadian proposal on modalities for the accounting of assigned amounts in relation to cleaner energy exports.
+
+Saudi_Arabia§Oman§European_Union	requested	the exclusion of a Canadian proposal on modalities for the accounting of assigned amounts in relation to cleaner energy exports.
+Canada	not requested	the exclusion of a Canadian proposal on modalities for the accounting of assigned amounts in relation to cleaner energy exports.
+
+
+21>>> The US, opposed by Brazil, noted the possibility of convening a ``friends of the chair" group while continuing with drafting.
+
+United_States	noted	the possibility of convening a ``friends of the chair" group while continuing with drafting.
+Brazil	not noted	the possibility of convening a ``friends of the chair" group while continuing with drafting.
+
+
+22>>> Australia, with the US, Canada and the EU, and opposed by the G-77/China and AOSIS, supported addressing the issue of ``factoring out" direct human-induced effects from the indirect and natural effects of LULUCF activities.
+
+Australia§United_States§Canada§European_Union	supported	addressing the issue of ``factoring out" direct human-induced effects from the indirect and natural effects of LULUCF activities.
+Group_of_77§China§Alliance_of_Small_Island_States	not supported	addressing the issue of ``factoring out" direct human-induced effects from the indirect and natural effects of LULUCF activities.
+
+
+23>>> Opposed by TUVALU, the EU recommended recording Tuvalu's concerns in the meeting's minutes instead of amending the draft conclusions.
+
+European_Union	recommended	recording Tuvalu's concerns in the meeting's minutes instead of amending the draft conclusions.
+Tuvalu	not recommended	recording Tuvalu's concerns in the meeting's minutes instead of amending the draft conclusions.
+
+
+24>>> The EU, opposed by SAUDI ARABIA, suggested developing a practical, longer-term work programme.
+
+European_Union	suggested	developing a practical, longer-term work programme.
+Saudi_Arabia	not suggested	developing a practical, longer-term work programme.
+
+
+25>>> AUSTRALIA, opposed by the G-77/CHINA, proposed adding a procedural paragraph that would list work to be done.
+
+AUSTRALIA	proposed	adding a procedural paragraph that would list work to be done.
+Group_of_77§CHINA	not proposed	adding a procedural paragraph that would list work to be done.
+
+
+26>>> Japan, Saudi Arabia, Algeria, the United Arab Emirates, Syria, Nigeria, Libya and others, opposed by Grenada and Tuvalu, stressed the importance of including CCS under the CDM.
+
+Japan§Saudi_Arabia§Algeria§United_Arab_Emirates§Syria§Nigeria§Libya	stressed	the importance of including CCS under the CDM.
+Grenada§Tuvalu	not stressed	the importance of including CCS under the CDM.
+
+
+27>>> CHINA opposed taking a single decision on all mechanisms as this was not supported by the Protocol.
+CHINA	opposed	taking a single decision on all mechanisms as this was not supported by the Protocol.
+
+
+28>>> TANZANIA, on behalf of the G-77/CHINA, noted that developing countries are the most vulnerable to climate change and the least able to adapt.
+
+Tanzania§Group_of_77§China	noted	that developing countries are the most vulnerable to climate change and the least able to adapt.
+
+
+29>>> Emphasizing that adaptation cannot be measured and quantified, CANADA did not support linkages between the long-term temperature limit, the need for support and adaptation.
+
+Canada	emphasizing	that adaptation cannot be measured and quantified
+Canada	not support	linkages between the long-term temperature limit, the need for support and adaptation.
+
+
+30>>> Sudan, for the AFRICAN GROUP, supported by CHINA and CHILE, and opposed by the US, preferred restating the extent to which developing countries' implementation depends on the level of support.
+
+Sudan§African_Group§China§Chile	preferred	restating the extent to which developing countries' implementation depends on the level of support.
+United_States	not preferred	restating the extent to which developing countries' implementation depends on the level of support.
+
+
+31>>> On the revision of guidelines, the US did not support deciding at COP-7 on the frequency of submission of national communications by non-LDC developing country Parties.
+
+United_States	not support	deciding at COP-7 on the frequency of submission of national communications by non-LDC developing country Parties.§On the revision of guidelines
+
+
+32>>>South Africa, for the G-77/CHINA, did not support the Chair's text and proposed forwarding both the text from SBI 22 (FCCC/SBI/2005/10 Annex 1) and the G-77/CHINA submission to SB 24 for consideration.
+
+South_Africa§Group_of_77§CHINA	not support	the Chair's text
+South_Africa§Group_of_77§China	proposed	forwarding both the text from SBI 22 (FCCC/SBI/2005/10 Annex 1) and the G-77/CHINA submission to SB 24 for consideration.
+
+
+33>>> NEW ZEALAND, the RUSSIAN FEDERATION, AUSTRALIA, JAPAN and CANADA said they could not support the encouragement of introducing quotas for Certified Emission Reductions originating from LDCs, SIDS and Africa during the second commitment period.
+
+NEW_ZEALAND§RUSSIA§AUSTRALIA§JAPAN§CANADA	said	they could not support the encouragement of introducing quotas for Certified Emission Reductions originating from LDCs, SIDS and Africa during the second commitment period.
+
+
+34>>> SINGAPORE, supported by PANAMA, called ICAO and IMO the ``most competent'' bodies to address emissions in their respective sectors.
+
+Singapore§Panama	called	ICAO and IMO the ``most competent'' bodies to address emissions in their respective sectors.
+
+
+35>>> SAUDI ARABIA said he could not support the elections as proposed.
+
+Saudi_Arabia	said	he could not support the elections as proposed.
+
+
+36>>> However, Australia did not support text on submissions.
+
+Australia	not support	text on submissions.
+
+
+37>>> Austria cannot support JI credits for constructing nuclear power plants.
+
+Austria	not support	JI credits for constructing nuclear power plants.
+
+
+38>>> China said that it did not approve of any attempt to make developing countries accept concrete restrictive targets through amending the Convention or negotiating new protocols.
+
+China	not approve	of any attempt to make developing countries accept concrete restrictive targets through amending the Convention or negotiating new protocols.
+
+
+39>>> On Croatia's appeal, parties agreed that the COP/MOP should note that Croatia has withdrawn its appeal.
+
+Croatia	withdrawn	its appeal.
+
+
+40>>> JAPAN said the cost of sanctions should be lower than the cost of withdrawal from the Protocol.
+
+JAPAN	said	the cost of sanctions should be lower than the cost of withdrawal from the Protocol.
+
+
+41>>> Kenya announced that it has withdrawn its offer to host the Secretariat.
+
+Kenya	withdrawn	its offer to host the Secretariat.
+
+
+42>>> OTHER MATTERS: Issues relating to cleaner or less-greenhouse-gas-emitting energy: This agenda item was withdrawn in the opening COP plenary on Monday, 6 December, after Canada withdrew its proposal on cleaner energy exports.
+
+Canada	withdrew	its proposal on cleaner energy exports.
+
+
+43>>> IRAN, supported by EGYPT, requested that the Secretariat make an attributed version of the new text available, while VENEZUELA and COLOMBIA opposed.
+
+Iran§Egypt	requested	that the Secretariat make an attributed version of the new text available
+Venezuela§Colombia	not requested	that the Secretariat make an attributed version of the new text available
+
+
+44>>> SAUDI ARABIA rejected the Chair's proposal to establish a Friends of the Chair group to develop compromise text, and threatened to withdraw support for a similar proposal in the contact group on mechanisms.
+
+SAUDI_ARABIA	rejected	the Chair's proposal to establish a Friends of the Chair group to develop compromise text
+Saudi_Arabia	threatened	to withdraw support for a similar proposal in the contact group on mechanisms.
+
+
+45>>> On the current negotiations at COP-7, Switzerland said it could not accept changes that weaken the Bonn Agreements, and stated that no country can shirk its responsibilities.
+
+Switzerland	said	it could not accept changes that weaken the Bonn Agreements§On the current negotiations at COP-7
+Switzerland	stated	that no country can shirk its responsibilities.§On the current negotiations at COP-7
+
+
+46>>> SAUDI ARABIA said he could not accept negotiations taking place outside the FCCC bodies, and opposed the appointment of facilitators.
+
+SAUDI_ARABIA	said	he could not accept negotiations taking place outside the FCCC bodies
+SAUDI_ARABIA	opposed	the appointment of facilitators.
+
+
+47>>> JAPAN, with a number of other Annex I Parties, indicated that he did not consider reporting under Article 3.14 to be mandatory, and could not accept a link to mechanisms eligibility.
+
+JAPAN	indicated	that he did not consider reporting under Article 3.14 to be mandatory, and could not accept a link to mechanisms eligibility.
+
+
+48>>> These included a proposal from Brazil for a new paragraph inviting parties to submit their views on the issue by 23 February 2007, although a separate proposal by Brazil to establish an ad hoc special review team on the matter was not accepted.
+Brazil	proposal	for a new paragraph inviting parties to submit their views on the issue by 23 February 2007, although a separate 
+Brazil	proposal	to establish an ad hoc special review team on the matter was not accepted.
+
+
+49>>> LATVIA: Indulis Emsis, State Minister for the Environment, called for increased commitments for developed countries, adding that Latvia cannot accept new commitments.
+Latvia	not accept	new commitments.
+
+
+50>>> Colombia said they could not accept a ``legal outcome" or application in 2020 and cannot accept the Durban package as it stands.
+
+Colombia	said	they could not accept a ``legal outcome" or application in 2020 and cannot accept the Durban package as it stands.
+
+
+51>>> Brazil, for the G-77/CHINA, said the US position of not negotiating because the agenda item on the review of information in non-Annex I communications is in abeyance is not acceptable.
+
+Brazil§Group_of_77§CHINA	said	the US position of not negotiating because the agenda item on the review of information in non-Annex I communications is in abeyance is not acceptable.
+
+
+52>>> SAUDI ARABIA and OMAN said sectoral targets should be restricted to Annex I parties, with OMAN stating that he would not accept further obligations beyond the UNFCCC.
+
+SAUDI_ARABIA§OMAN	said	sectoral targets should be restricted to Annex I parties
+OMAN	stating	that he would not accept further obligations beyond the UNFCCC.
+
+
+53>>> Bolivia opposed the decisions, stating that they represent a step backward because they postpone a decision on a second commitment period under the Kyoto Protocol ``indefinitely" and ``open the door for a regime that is more flexible and voluntary, and is based on a pledge-and-review system."
+
+Bolivia	opposed	the decisions
+Bolivia	stating	that they represent a step backward because they postpone a decision on a second commitment period under the Kyoto Protocol ``indefinitely" and ``open the door for a regime that is more flexible and voluntary, and is based on a pledge-and-review system."
+
+
+54>>> Saudi Arabia said that the G-77/China had not had enough time to consider the text fully, and could not accept it as a basis for discussion.
+
+Saudi_Arabia	said	that the G-77/China had not had enough time to consider the text fully, and could not accept it as a basis for discussion.
+Group_of_77§China	not accept	it as a basis for discussion
+
+
+55>>> Mauritania, on behalf of the G-77/China, stressed that lack of funding and support for inventory compilation and national communications significantly influenced accuracy of the data and the rate at which progress was being made.
+
+Mauritania§Group_of_77§China	stressed	that lack of funding and support for inventory compilation and national communications significantly influenced accuracy of the data and the rate at which progress was being made.
+
+
+56>>> The US supported one decision for both and, with JAPAN, opposed compensation for adverse effects.
+
+United_States	supported	one decision for both and, with JAPAN, opposed compensation for adverse effects.
+United_States§Japan	opposed	compensation for adverse effects
+
+
+57>>> The US, supported by Canada, opposed translating preambular text from the Bonn Agreements into an operational paragraph.
+
+United_States§Canada	opposed	translating preambular text from the Bonn Agreements into an operational paragraph.
+
+
+58>>> China, supported by Venezuela, Papua New Guinea, United Arab Emirates, Brazil, Nigeria and Bahrain, expressed sympathy for Tuvalu's proposal, but opposed discussing proposed Protocol amendments that ``do not enhance the Protocol." 
+
+China§Venezuela§Papua_New_Guinea§United_Arab_Emirates§Brazil§Nigeria§Bahrain	expressed	sympathy for Tuvalu's proposal
+China§Venezuela§Papua_New_Guinea§United_Arab_Emirates§Brazil§Nigeria§Bahrain	opposed	discussing proposed Protocol amendments that ``do not enhance the Protocol.".
+
+
+59>>> OTHER MATTERS: Cleaner or less greenhouse gas-emitting energy: CANADA proposed draft decision text supported by NEW ZEALAND, POLAND, the RUSSIAN FEDERATION and SLOVENIA, and opposed by SAUDI ARABIA for the G-77/CHINA, SWITZERLAND, and the US.
+
+CANADA§New_Zealand§Poland§Russia§Slovenia	proposed	draft decision text
+SAUDI_ARABIA§Group_of_77§CHINA§SWITZERLAND§United_States	not proposed	draft decision text
+
+
+60>>> On a paragraph on preparation of a negotiating text by May 2015, the EU, supported by SWITZERLAND and the MARSHALL ISLANDS, and opposed by the LMDCs and CANADA, supported maintaining a reference to Article 17 of the Convention (protocols).
+
+European_Union§Switzerland§Marshall_Islads	supported	maintaining a reference to Article 17 of the Convention (protocols).§On a paragraph on preparation of a negotiating text by May 2015
+Like_Minded_Group§Canada	not supported	maintaining a reference to Article 17 of the Convention (protocols).§On a paragraph on preparation of a negotiating text by May 2015
+
+61>>> CHINA, supported by BOTSWANA and SENEGAL, and opposed by the EU and SRI LANKA, proposed that NGOs only be allowed to make submissions on the work programme if requested to do so by their national focal points.
+
+CHINA§Botswana§Senegal	proposed	that NGOs only be allowed to make submissions on the work programme if requested to do so by their national focal points.
+European_Union§SRI_LANKA	not proposed	that NGOs only be allowed to make submissions on the work programme if requested to do so by their national focal points.
+
+
+62>>> NEW ZEALAND, supported by CANADA, and opposed by the EU and JAPAN, suggested text noting that the conclusions complete the work under the agenda sub-item.
+
+NEW_ZEALAND§Canada	suggested	text noting that the conclusions complete the work under the agenda sub-item.
+European_Union§JAPAN	not suggested	text noting that the conclusions complete the work under the agenda sub-item.
+
+
+63>>> Inclusion of CCS under the CDM was supported by Australia, Saudi Arabia and others, but opposed by Brazil, Ethiopia, Grenada and others.
+
+Australia§Saudi_Arabia	supported	Inclusion of CCS under the CDM
+Brazil§Ethiopia§Grenada	not supported	Inclusion of CCS under the CDM
+
+
+64>>> The African Group, with China, for the LMDCs, and others, opposed by the EU and others, favored ``by the first quarter of 2015 and endeavor to do so as soon as possible thereafter." 
+
+African_Group§China§Like_Minded_Group	favored	``by the first quarter of 2015 and endeavor to do so as soon as possible thereafter."
+European_Union	not favored	``by the first quarter of 2015 and endeavor to do so as soon as possible thereafter."
+
+
+65>>> Saudi Arabia suggested bracketing ``a quantifiable mitigation component" and, with Turkey, opposed reference to ``evolving" national circumstances.
+
+Saudi_Arabia	suggested	bracketing ``a quantifiable mitigation component"
+Saudi_Arabia§Turkey	opposed	reference to ``evolving" national circumstances
+
+
+66>>> However, Saudi Arabia, with India, Venezuela, Algeria, Kuwait, Oman, Nigeria, Ecuador and China, opposed a contact group and preferred that the COP President or a Vice-President hold informal consultations.
+
+Saudi_Arabia§India§Venezuela§Algeria§Kuwait§Oman§Nigeria§Ecuador§China	opposed	a contact group
+Saudi_Arabia§India§Venezuela§Algeria§Kuwait§Oman§Nigeria§Ecuador§China	preferred	that the COP President or a Vice-President hold informal consultations.
+
+
+67>>> Major differences remained, with developed countries supporting endorsement and continuation of the EGTT, while G-77/CHINA stated that EGTT is not sufficient and advocated a new body under the Convention, as well as means for monitoring implementation of Convention Article 4.5 (technology transfer).
+
+Group_of_77§China	stated	that EGTT is not sufficient
+Group_of_77§China	advocated	a new body under the Convention, as well as means for monitoring implementation of Convention Article 4.5 (technology transfer).
+
+
+68>>> The EU, with AUSTRALIA, and opposed by MALAYSIA, CHINA and ARGENTINA, said the report provided a sound basis to initiate the revised UNFCCC guidelines.
+
+European_Union§AUSTRALIA	said	the report provided a sound basis to initiate the revised UNFCCC guidelines.
+MALAYSIA§CHINA§ARGENTINA	not said	the report provided a sound basis to initiate the revised UNFCCC guidelines.
+
+
+69>>> CHINA, with SOUTH AFRICA, specified that Protocol Article 18 (compliance) refers to "binding consequences" and opposed the proposed terminology change.
+
+CHINA§SOUTH_AFRICA	specified	that Protocol Article 18 (compliance) refers to "binding consequences"
+CHINA§SOUTH_AFRICA	opposed	the proposed terminology change.
+
+
+70>>> On the inclusion of activities in decision 7/CP.7 (funding under the UNFCCC), particularly on economic diversification, the EU, with NORWAY, opposed by the G-77/CHINA, called for the deletion of the reference.
+
+European_Union§Norway	called	for the deletion of the reference§On the inclusion of activities in decision 7/CP.7 (funding under the UNFCCC), particularly on economic diversification
+Group_of_77§China	not called	for the deletion of the reference§On the inclusion of activities in decision 7/CP.7 (funding under the UNFCCC), particularly on economic diversification
+
+
+71>>> Japan proposed deleting the paragraph, opposed by the African Group and Mexico, who underscored lack of agreement on the scope of INDCs.
+
+Japan	proposed	deleting the paragraph
+African_Group§Mexico	not proposed	deleting the paragraph
+African_Group§Mexico	underscored	lack of agreement on the scope of INDCs
+
+
+72>>> PROTOCOL ARTICLE 2.3 (ADVERSE EFFECTS): Delegates were unable to agree on this agenda item, with SAUDI ARABIA and KUWAIT urging a contact group discussion, opposed by the EU and JAPAN.
+
+Saudi_Arabia§Kuwait	urging	a contact group discussion
+European_Union§Japan	not urging	a contact group discussion
+
+
+73>>> The section on minimization of adverse impacts under Article 3.14 (adverse effects) was not agreed, with SAUDI ARABIA, opposed by JAPAN and others, suggesting that Parties "shall" rather than "are requested to" provide information.
+
+Saudi_Arabia	suggesting	that Parties "shall" rather than "are requested to" provide information.
+Japan	not suggesting	that Parties "shall" rather than "are requested to" provide information.
+
+
+74>>> AUSTRALIA reiterated her country's support for a legally-binding outcome, and flexibility concerning a single new protocol or a combination that involves the continuation of the Kyoto Protocol.
+
+AUSTRALIA	reiterated	her country's support for a legally-binding outcome, and flexibility concerning a single new protocol or a combination that involves the continuation of the Kyoto Protocol.
+
+
+75>>> The final report will include the RUSSIAN FEDERATION's objection to procedural steps embodied in the recommendation on the relationship between the Montreal Protocol and the FCCC (FCCC/SBSTA/1998/CRP.8)
+
+Russia	objection	to procedural steps embodied in the recommendation on the relationship between the Montreal Protocol and the FCCC (FCCC/SBSTA/1998/CRP.8)
+
+
+76>>> The dynamics within the BASIC group were still unclear to some, as was the broader response to the EU's proposal for how a package deal might emerge and its desire for a timetable towards a broader agreement.
+
+European_Union	proposal	for how a package deal might emerge
+
+
+77>>> CHINA reiterated the G-77/China's preference for a gas-by-gas approach.
+
+CHINA	reiterated	the G-77/China's preference for a gas-by-gas approach.
+Group_of_77§China	preference	for a gas-by-gas approach
+
+
+78>>> The EU, supported by the US and SWITZERLAND, stressed that the focus of workstream 2 should remain on mitigation.
+
+European_Union§United_States§Switzerland	stressed	that the focus of workstream 2 should remain on mitigation.
+
+
+79>>> SAUDI ARABIA, with NIGERIA and KUWAIT but opposed by ARGENTINA, CHILE and others, called for consideration of adaptation to response measures and inclusion of economic diversification in the programme of work.
+
+Saudi_Arabia§Nigeria§Kuwait	called	for consideration of adaptation to response measures and inclusion of economic diversification in the programme of work.
+Argentina§Chile	not called	for consideration of adaptation to response measures and inclusion of economic diversification in the programme of work.
+
+
+80>>> Given the G-77/China's opposition to an informal proposal to split negotiations into three issue clusters, participants wonder how President Pronk will proceed.
+
+Group_of_77§China	opposition	to an informal proposal to split negotiations into three issue clusters
+
+
+81>>> Some parties sought reassurance that this issue would not be conflated with, or prejudge the outcome of, discussions on the rules of procedure; and the proposal from Papua New Guinea and Mexico to amend Convention Articles 7 and 18.
+
+Papua_New_Guinea§Mexico	proposal	to amend Convention Articles 7 and 18
+
+
+82>>> Sudan, for the G-77/CHINA, requested confirmation that the chairs of the open-ended drafting groups would be the chairs and facilitators who had already been working on these issues under the AWG.
+
+Sudan§Group_of_77§CHINA	requested	confirmation that the chairs of the open-ended drafting groups would be the chairs and facilitators who had already been working on these issues under the AWG.
+
+
+83>>> Following a request for clarification from INDONESIA on the implications of Germany's offer to confer legal capacity, the AFB Chair explained that Germany had presented draft legislation, which involved passing the bill through Parliament but that the process could take up to a year.
+
+Indonesia	request	for clarification§on the implications of Germany's offer to confer legal capacity
+Germany	offer	to confer legal capacity
+
+
+84>>> COMPLIANCE (COP/MOP): During the first meeting of the COP/MOP contact group, Co-Chair Danvivathana explained that the group's mandate covers two agenda items: the Compliance Committee's annual report; and Croatia's appeal against a decision by the Committee's Enforcement Branch.
+
+Croatia	appeal	against a decision by the Committee's Enforcement Branch.
+
+
+85>>> Turkey's proposal to be removed from the Annexes was supported by PAKISTAN, the US, MEXICO and GEORGIA.
+
+Turkey	proposal	to be removed from the Annexes was supported by PAKISTAN, the US, MEXICO and GEORGIA.
+Pakistan§United_States§Mexico§Georgia_(country)	supported	Turkey's proposal to be removed from the Annexes 
+
+
+86>>> Several Annex I Parties welcomed Kazakhstan's proposal to be included in Annex I. Several non-Annex I Parties said further information was needed on Kazakhstan's ability to fulfill Annex I commitments.
+
+Kazakhstan	proposal	to be included in Annex I.
+
+
+87>>> The EU noted progress in addressing the technical basis of the proposal, but identified several outstanding issues.
+
+European_Union	noted	progress in addressing the technical basis of the proposal
+European_Union	identified	several outstanding issues.
+
+
+88>>> China said the IPCC should not give instructions on reporting to sovereign States, but agreed to accept the Chair's suggestion.
+
+China	said	the IPCC should not give instructions on reporting to sovereign States
+China	agreed	to accept the Chair's suggestion.
+
+
+89>>> LATVIA supported the EU proposal for a Buenos Aires work plan.
+
+LATVIA	supported	the EU proposal for a Buenos Aires work plan.
+European_Union	proposal	for a Buenos Aires work plan.
+
+
+90>>> COMPLIANCE: Parties met for informal consultations on the adoption of the compliance mechanism and Saudi Arabia's proposal to amend the Protocol.
+
+Saudi_Arabia	proposal	to amend the Protocol. 
+
+
+91>>> On the COP decision, they agreed to a US proposal to note the need to streamline the review procedures in light of the additional review requirements for Annex I Parties that are also Parties to the Kyoto Protocol.
+
+United_States	proposal	to note the need to streamline the review procedures in light of the additional review requirements for Annex I Parties that are also Parties to the Kyoto Protocol.
+
+
+92>>> By the close of the day, though, the mood had turned sour for some following Saudi Arabia's insistence on amending the Kyoto Protocol at this COP/MOP-- an issue many fear could prove among the most difficult to manage in the days ahead.
+
+Saudi_Arabia	insistence	on amending the Kyoto Protocol at this COP/MOP
+
+
+93>>> Much of the discussion was on a proposal by the G-77/China to include research and development in the transport and energy sectors in the priority areas to be financed by the SCCF.
+
+Group_of_77§China	proposal	to include research and development in the transport and energy sectors in the priority areas to be financed by the SCCF.
+
+
+94>>> Bangladesh, on behalf of LDCs, called for compensation for damages caused by climate change, supported adaptation efforts and NAPA implementation.
+
+Bangladesh§Least_Developed_Country	called	for compensation for damages caused by climate change
+Bangladesh§Least_Developed_Country	supported	adaptation efforts and NAPA implementation
+
+
+95>>> BRAZIL, supported by AUSTRALIA, the US and SWITZERLAND, suggested noting health co-benefits of mitigation policies.
+
+Brazil§Australia§United_States§Switzerland	suggested	noting health co-benefits of mitigation policies
+
+
+96>>> YUGOSLAVIA, opposed by the EU, said it could not support Croatia's 1990 baseline proposal.
+
+Yugoslavia	not support	Croatia's 1990 baseline proposal
+European_Union	support	Croatia's 1990 baseline proposal
+
+
+97>>> Saudi Arabia and Kuwait did not support this proposal since it would impose new conditionalities on developing countries.
+
+Saudi_Arabia§Kuwait	not support	this proposal since it would impose new conditionalities on developing countries.
+
+
+98>>> Sweden, supported by the Russian Federation and Belgium, and opposed by Oman and Nigeria, called for a dialogue on developing country commitments.
+
+Sweden§Russia§Belgium	called	for a dialogue on developing country commitments.
+Oman§Nigeria	not called	for a dialogue on developing country commitments.
+
+
+99>>>France, on behalf of the EU, accepted this compromise, and added a footnote to paragraph 2(b) that a reference to communications include regional economic integration organizations included in the Convention.
+
+France§European_Union	accepted	this compromise
+France§European_Union	added	a footnote to paragraph 2(b) that a reference to communications include regional economic integration organizations included in the Convention.
+
+
+100>>>Australia supported annual emissions updates, but recommended that the COP define comparable reporting years.
+
+Australia	supported	annual emissions updates
+Australia	recommended	that the COP define comparable reporting years
+

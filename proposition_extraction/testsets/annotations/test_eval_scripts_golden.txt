@@ -1,0 +1,16 @@
+## this was to test the scoring functions
+
+1>>> This was opposed by the LDCs who cautioned against ``slippage in timing." 
+
+Least_Developed_Country	cautioned	against ``slippage in timing."
+Least_Developed_Country	opposed	this
+
+
+2>>> Benin said the texts are an ``excellent" and ``significant" step forward towards achieving an international agreement supported by both developed and developing countries.
+
+Benin	said	the texts are an ``excellent" and ``significant" step forward towards achieving an international agreement supported by both developed and developing countries.
+
+
+3>>> On the COP decision, they agreed to a US proposal to note the need to streamline the review procedures in light of the additional review requirements for Annex I Parties that are also Parties to the Kyoto Protocol.
+
+United_States	proposal	to note the need to streamline the review procedures in light of the additional review requirements for Annex I Parties that are also Parties to the Kyoto Protocol.§On the COP decision, 

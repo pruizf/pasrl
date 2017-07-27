@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf8"?>
+<!-- Actors for ENB corpus analysis
+      - Countries:
+         - types are AI (Annex I) or NAI (Non-Annex-I)
+      - Other possible actor types: generic roles like 'delegates'
+     This is read lowercased in the app
+-->
+<actors>
+  <countries>
+    <!-- Annex I -->
+    <country type="AI" dbpedia="Australia">Australia</country>
+    <country type="AI" dbpedia="Austria">Austria</country>
+    <country type="AI" dbpedia="Belarus">Belarus</country>
+    <country type="AI" dbpedia="Belgium">Belgium</country>
+    <country type="AI" dbpedia="Bulgaria">Bulgaria</country>
+    <country type="AI" dbpedia="Canada">Canada</country>
+    <country type="AI" dbpedia="Croatia">Croatia</country>
+    <country type="AI" dbpedia="Cyprus">Cyprus</country>
+    <country type="AI" dbpedia="Czech_Republic">Czech Republic</country>
+    <country type="AI" dbpedia="Denmark">Denmark</country>
+    <country type="AI" dbpedia="Estonia">Estonia</country>
+    <country type="AI" dbpedia="European_Union">European Union</country>
+    <country type="AI" dbpedia="Finland">Finland</country>
+    <country type="AI" dbpedia="France">France</country>
+    <country type="AI" dbpedia="Germany">Germany</country>
+    <country type="AI" dbpedia="Greece">Greece</country>
+    <country type="AI" dbpedia="Hungary">Hungary</country>
+    <country type="AI" dbpedia="Iceland">Iceland</country>
+    <country display="Ireland" type="AI" dbpedia="Republic_of_Ireland">Ireland</country>
+    <country type="AI" dbpedia="Italy">Italy</country>
+    <country type="AI" dbpedia="Japan">Japan</country>
+    <country type="AI" dbpedia="Kazakhstan">Kazakhstan</country>
+    <country type="AI" dbpedia="Latvia">Latvia</country>
+    <country type="AI" dbpedia="Liechtenstein">Liechtenstein</country>
+    <country type="AI" dbpedia="Lithuania">Lithuania</country>
+    <country type="AI" dbpedia="Luxembourg">Luxembourg</country>
+    <country type="AI" dbpedia="Malta">Malta</country>
+    <country type="AI" dbpedia="Monaco">Monaco</country>
+    <country type="AI" dbpedia="Netherlands">Netherlands</country>
+    <country type="AI" dbpedia="New_Zealand">New Zealand</country>
+    <country type="AI" dbpedia="Norway">Norway</country>
+    <country type="AI" dbpedia="Poland">Poland</country>
+    <country type="AI" dbpedia="Portugal">Portugal</country>
+    <country type="AI" dbpedia="Romania">Romania</country>
+    <country type="AI" dbpedia="Russia">Russian Federation</country>
+    <country type="AI" dbpedia="Russia">Russia</country>
+    <country type="AI" dbpedia="Slovakia">Slovakia</country>
+    <country type="AI" dbpedia="Slovenia">Slovenia</country>
+    <country type="AI" dbpedia="Spain">Spain</country>
+    <country type="AI" dbpedia="Sweden">Sweden</country>
+    <country type="AI" dbpedia="Switzerland">Switzerland</country>
+    <country type="AI" dbpedia="Turkey">Turkey</country>
+    <country type="AI" dbpedia="Ukraine">Ukraine</country>
+    <country type="AI" dbpedia="United_Kingdom" display="The_UK">United Kingdom</country>
+    <country type="AI" dbpedia="United_Kingdom" display="The_UK">The UK</country>
+      <!-- UK not sure, ok for query normalization but not sure for corpus analysis -->
+    <country type="AI" dbpedia="United_Kingdom" display="The_UK">UK</country>
+    <country type="AI" dbpedia="United_States" display="The_US">United States of America</country>
+    <country type="AI" dbpedia="United_States" display="The_US">The US</country>
+    <country type="AI" dbpedia="United_States" display="The_US">US</country>
+    <country type="AI" dbpedia="United_States" display="The_US">USA</country>
+    <country type="AI" dbpedia="European_Union" display="The_EU">The EU</country>
+    <country type="AI" dbpedia="European_Union" display="The_EU">EU</country>
+    <country type="AI" dbpedia="European_Union" display="The_EU">European Union</country>
+    <!-- Non-Annex I -->
+    <country type="NAI" dbpedia="Afghanistan">Afghanistan</country>
+    <country type="NAI" dbpedia="Albania">Albania</country>
+    <country type="NAI" dbpedia="Algeria">Algeria</country>
+    <country type="NAI" dbpedia="Angola">Angola</country>
+    <country type="NAI" dbpedia="Antigua_and_Barbuda">Antigua and Barbuda</country>
+    <country type="NAI" dbpedia="Argentina">Argentina</country>
+    <country type="NAI" dbpedia="Argentina">Argentina</country>
+    <country type="NAI" dbpedia="Armenia">Armenia</country>
+    <country type="NAI" dbpedia="Azerbaijan_Democratic_Republic" display="Azerbaijan">Azerbaijan</country>
+    <country type="NAI" dbpedia="The_Bahamas">Bahamas</country>
+    <country type="NAI" dbpedia="Bahrain">Bahrain</country>
+    <country type="NAI" dbpedia="Bangladesh">Bangladesh</country>
+    <country type="NAI" dbpedia="Barbados">Barbados</country>
+    <country type="NAI" dbpedia="Belize">Belize</country>
+    <country type="NAI" dbpedia="Benin">Benin</country>
+    <country type="NAI" dbpedia="Bhutan">Bhutan</country>
+    <country type="NAI" dbpedia="Bolivia">Bolivia</country>
+    <country type="NAI" dbpedia="Bosnia_and_Herzegovina" display="Bosnia">Bosnia and Herzegovina</country>
+    <country type="NAI" dbpedia="Bosnia_and_Herzegovina" display="Bosnia">Bosnia</country>
+    <country type="NAI" dbpedia="Botswana">Botswana</country>
+    <country type="NAI" dbpedia="Brazil">Brazil</country>
+    <country type="NAI" dbpedia="Brunei">Brunei Darussalam</country>
+    <country type="NAI" dbpedia="Burkina_Faso">Burkina Faso</country>
+    <country type="NAI" dbpedia="Burundi">Burundi</country>
+    <country type="NAI" dbpedia="Cambodia">Cambodia</country>
+    <country type="NAI" dbpedia="Cameroon">Cameroon</country>
+    <country type="NAI" dbpedia="Cape_Verde">Cabo Verde</country>
+    <country type="NAI" dbpedia="Central_African_Republic">Central African Republic</country>
+    <country type="NAI" dbpedia="Chad">Chad</country>
+    <country type="NAI" dbpedia="Chile">Chile</country>
+    <country type="NAI" dbpedia="China">China</country>
+    <!--<country type="NAI" dbpedia="China">Chinese</country>--><!-- TODO: add adjectives-->
+    <country type="NAI" dbpedia="Colombia">Colombia</country>
+    <country type="NAI" dbpedia="Comoros">Comoros</country>
+    <country type="NAI" dbpedia="Democratic_Republic_of_the_Congo" display="Dem_Congo">Democratic Republic of the Congo</country>
+    <country type="NAI" dbpedia="Republic_of_the_Congo" display="Congo">Republic of the Congo</country>
+    <country type="NAI" dbpedia="Cook_Islands">Cook Islands</country>
+    <country type="NAI" dbpedia="Costa_Rica">Costa Rica</country>
+    <country type="NAI" dbpedia="Côte_d'Ivoire">Cote D'ivoire</country>
+    <country type="NAI" dbpedia="Cuba">Cuba</country>
+    <country type="NAI" dbpedia="Cyprus">Cyprus</country>
+    <country type="NAI" dbpedia="North_Korea">Democratic People's Republic of Korea</country>
+    <country type="NAI" dbpedia="Djibouti">Djibouti</country>
+    <country type="NAI" dbpedia="Dominica">Dominica</country>
+    <country type="NAI" dbpedia="Dominican_Republic">Dominican Republic</country>
+    <country type="NAI" dbpedia="Ecuador">Ecuador</country>
+    <country type="NAI" dbpedia="Egypt">Egypt</country>
+    <country type="NAI" dbpedia="El_Salvador">El Salvador</country>
+    <country type="NAI" dbpedia="El_Salvador">Salvador</country>
+    <country type="NAI" dbpedia="Equatorial_Guinea">Equatorial Guinea</country>
+    <country type="NAI" dbpedia="Eritrea">Eritrea</country>
+    <country type="NAI" dbpedia="Ethiopia">Ethiopia</country>
+    <country type="NAI" dbpedia="Fiji">Fiji</country>
+    <country type="NAI" dbpedia="Gabon">Gabon</country>
+    <country type="NAI" dbpedia="The_Gambia">Gambia</country>
+    <country type="NAI" dbpedia="Georgia_(country)" display="Georgia">Georgia</country>
+    <country type="NAI" dbpedia="Ghana">Ghana</country>
+    <country type="NAI" dbpedia="Grenada">Grenada</country>
+    <country type="NAI" dbpedia="Guatemala">Guatemala</country>
+    <country type="NAI" dbpedia="Guinea">Guinea</country>
+    <country type="NAI" dbpedia="Guinea-Bissau">Guinea-Bissau</country>
+    <country type="NAI" dbpedia="Guinea-Bissau">Guinea Bissau</country>
+    <country type="NAI" dbpedia="Guyana">Guyana</country>
+    <country type="NAI" dbpedia="Haiti">Haiti</country>
+    <country type="NAI" dbpedia="Honduras">Honduras</country>
+    <country type="NAI" dbpedia="India">India</country>
+    <country type="NAI" dbpedia="Indonesia">Indonesia</country>
+    <country type="NAI" dbpedia="Iran">Iran</country>
+    <country type="NAI" dbpedia="Iraq">Iraq</country>
+    <country type="NAI" dbpedia="Israel">Israel</country>
+    <country type="NAI" dbpedia="Jamaica">Jamaica</country>
+    <country type="NAI" dbpedia="Jordan">Jordan</country>
+    <country type="NAI" dbpedia="Kazakhstan">Kazakhstan</country>
+    <country type="NAI" dbpedia="Kenya">Kenya</country>
+    <country type="NAI" dbpedia="Kiribati">Kiribati</country>
+    <country type="NAI" dbpedia="Kuwait">Kuwait</country>
+    <country type="NAI" dbpedia="Kyrgyzstan">Kyrgyzstan</country>
+    <country type="NAI" dbpedia="Laos">Lao People's Democratic Republic</country>
+    <country type="NAI" dbpedia="Lebanon">Lebanon</country>
+    <country type="NAI" dbpedia="Lesotho">Lesotho</country>
+    <country type="NAI" dbpedia="Liberia">Liberia</country>
+    <country type="NAI" dbpedia="Libya">Libya</country>
+    <country type="NAI" dbpedia="Republic_of_Macedonia">Macedonia</country>
+    <country type="NAI" dbpedia="Madagascar">Madagascar</country>
+    <country type="NAI" dbpedia="Malawi">Malawi</country>
+    <country type="NAI" dbpedia="Malaysia">Malaysia</country>
+    <country type="NAI" dbpedia="Maldives">Maldives</country>
+    <country type="NAI" dbpedia="Mali">Mali</country>
+    <country type="NAI" dbpedia="Malta">Malta</country>
+    <country type="NAI" dbpedia="Marshall_Islands">Marshall Islands</country>
+    <country type="NAI" dbpedia="Mauritania">Mauritania</country>
+    <country type="NAI" dbpedia="Mauritius">Mauritius</country>
+    <country type="NAI" dbpedia="Mexico">Mexico</country>
+    <country type="NAI" dbpedia="Micronesia">Micronesia</country>
+    <country type="NAI" dbpedia="Mongolia">Mongolia</country>
+    <country type="NAI" dbpedia="Montenegro">Montenegro</country>
+    <country type="NAI" dbpedia="Morocco">Morocco</country>
+    <country type="NAI" dbpedia="Mozambique">Mozambique</country>
+    <country type="NAI" dbpedia="Burma">Myanmar</country>
+    <country type="NAI" dbpedia="Namibia">Namibia</country>
+    <country type="NAI" dbpedia="Nauru">Nauru</country>
+    <country type="NAI" dbpedia="Nepal">Nepal</country>
+    <country type="NAI" dbpedia="Nicaragua">Nicaragua</country>
+    <country type="NAI" dbpedia="Niger">Niger</country>
+    <country type="NAI" dbpedia="Nigeria">Nigeria</country>
+    <country type="NAI" dbpedia="Niue">Niue</country>
+    <country type="NAI" dbpedia="Oman">Oman</country>
+    <country type="NAI" dbpedia="Pakistan">Pakistan</country>
+    <country type="NAI" dbpedia="Palau">Palau</country>
+    <country type="NAI" dbpedia="Panama">Panama</country>
+    <country type="NAI" dbpedia="Papua_New_Guinea">Papua New Guinea</country>
+    <country type="NAI" dbpedia="Paraguay">Paraguay</country>
+    <country type="NAI" dbpedia="Peru">Peru</country>
+    <country type="NAI" dbpedia="Philippines">Philippines</country>
+    <country type="NAI" dbpedia="Qatar">Qatar</country>
+    <country type="NAI" dbpedia="Serbia">Serbia</country>
+    <country type="NAI" dbpedia="South_Korea">Republic of Korea</country>
+    <country type="NAI" dbpedia="Moldova">Republic of Moldova</country>
+    <country type="NAI" dbpedia="Rwanda">Rwanda</country>
+    <country type="NAI" dbpedia="Saint_Kitts_and_Nevis">Saint Kitts and Nevis</country>
+    <country type="NAI" dbpedia="Saint_Kitts_and_Nevis">Kitts and Nevis</country>
+    <country type="NAI" dbpedia="Saint_Kitts_and_Nevis">Kitts &amp; Nevis</country>
+    <country type="NAI" dbpedia="Saint_Kitts_and_Nevis">Kitts Nevis</country>
+    <country type="NAI" dbpedia="Saint_Lucia">Saint Lucia</country>
+    <country type="NAI" dbpedia="Saint_Vincent_and_the_Grenadines">Saint Vincent and Grenadines</country>
+    <country type="NAI" dbpedia="Samoa">Samoa</country>
+    <country type="NAI" dbpedia="San_Marino">San Marino</country>
+    <country type="NAI" dbpedia="São_Tomé_and_Príncipe">Sao Tomé and Principe</country>
+    <country type="NAI" dbpedia="Saudi_Arabia">Saudi Arabia</country>
+    <country type="NAI" dbpedia="Senegal">Senegal</country>
+    <country type="NAI" dbpedia="Seychelles">Seychelles</country>
+    <country type="NAI" dbpedia="Sierra_Leone">Sierra Leone</country>
+    <country type="NAI" dbpedia="Singapore">Singapore</country>
+    <country type="NAI" dbpedia="Solomon_Islands">Solomon Islands</country>
+    <country type="NAI" dbpedia="South_Africa">South Africa</country>
+    <country type="NAI" dbpedia="Somalia">Somalia</country>
+    <country type="NAI" dbpedia="Sri_Lanka">Sri Lanka</country>
+    <country type="NAI" dbpedia="Sudan">Sudan</country>
+    <country type="NAI" dbpedia="Suriname">Suriname</country>
+    <country type="NAI" dbpedia="Swaziland">Swaziland</country>
+    <country type="NAI" dbpedia="Syria">Syrian Arab Republic</country>
+    <country type="NAI" dbpedia="Syria">Syria</country>
+    <country type="NAI" dbpedia="Tajikistan">Tajikistan</country>
+    <country type="NAI" dbpedia="Thailand">Thailand</country>
+    <country type="NAI" dbpedia="East_Timor">Timor-Leste</country>
+    <country type="NAI" dbpedia="Togo">Togo</country>
+    <country type="NAI" dbpedia="Tonga">Tonga</country>
+    <country type="NAI" dbpedia="Trinidad_and_Tobago">Trinidad and Tobago</country>
+    <country type="NAI" dbpedia="Tunisia">Tunisia</country>
+    <country type="NAI" dbpedia="Turkmenistan">Turkmenistan</country>
+    <country type="NAI" dbpedia="Tuvalu">Tuvalu</country>
+    <country type="NAI" dbpedia="Uganda">Uganda</country>
+    <country type="NAI" dbpedia="United_Arab_Emirates" display="UAE">United Arab Emirates</country>
+    <country type="NAI" dbpedia="Tanzania">United Republic of Tanzania</country>
+    <country type="NAI" dbpedia="Uruguay">Uruguay</country>
+    <country type="NAI" dbpedia="Uzbekistan">Uzbekistan</country>
+    <country type="NAI" dbpedia="Vanuatu">Vanuatu</country>
+    <country type="NAI" dbpedia="Venezuela">Venezuela</country>
+    <country type="NAI" dbpedia="Vietnam">Viet Nam</country>
+    <country type="NAI" dbpedia="Yemen">Yemen</country>
+    <country type="NAI" dbpedia="Zambia">Zambia</country>
+    <country type="NAI" dbpedia="Zimbabwe">Zimbabwe</country>
+  </countries>
+  <observers>
+    <!-- http://maindb.unfccc.int/public/igo.pl?mode=wim -->
+    <!-- http://maindb.unfccc.int/public/ngo.pl?mode=wim&search=A-->
+    <observer type="IGO" dbpedia="Caribbean_Community" display="CARICOM">the CARICOM states</observer>
+    <observer type="IGO" dbpedia="Caribbean_Community" display="CARICOM">CARICOM</observer>
+    <observer type="IGO" dbpedia="Caribbean_Community" display="CARICOM">the Caribbean Community</observer>
+  </observers>
+  <generics>
+    <generic type="default">committee</generic>
+    <generic type="default">committees</generic>
+    <generic type="default">delegate</generic>
+    <generic type="default">delegates</generic>
+    <generic type="default">party</generic>
+    <generic type="default">parties</generic>
+    <generic type="manager">chair</generic>
+    <generic type="manager">chairs</generic>
+    <generic type="manager">participant</generic>
+    <generic type="manager">participants</generic>
+    <!--<generic type="cop">the cop</generic>-->
+  </generics>
+  <others>
+    <!-- in initial versions -->
+    <other display="AOSIS" type="other" dbpedia="Alliance_of_Small_Island_States">AOSIS</other>
+    <other display="ALBA" type="other" dbpedia="ALBA">ALBA</other>
+    <other type="other" dbpedia="Group_of_77">G-77</other>
+    <other type="other" dbpedia="Group_of_77">G- 77</other><!--sic-->
+    <other type="other" dbpedia="Group_of_77">G -77</other>
+    <other type="other" dbpedia="Group_of_77">G77</other>
+    <other type="other" dbpedia="Group_of_77">G 77</other>
+    <other type="other" dbpedia="Least_Developed_Country" display="LDCs">LDC</other>
+    <other type="other" dbpedia="Least_Developed_Country" display="LDCs">LDCs</other>
+    <other type="other" dbpedia="Least_Developed_Country" display="LDCs">the LDC</other>
+    <other type="other" dbpedia="Least_Developed_Country" display="LDCs">the LDCs</other>
+    <other type="other" dbpedia="Like_Minded_Group" display="LMDCs">LMDC</other>
+    <other type="other" dbpedia="Like_Minded_Group" display="LMDCs">LMDCs</other>
+    <other type="other" dbpedia="Like_Minded_Group" display="LMDCs">the LMDC</other>
+    <other type="other" dbpedia="Like_Minded_Group" display="LMDCs">the LMDCs</other>
+    <other type="other" dbpedia="Like_Minded_Group" display="LMDCs">Like-Minded Group</other>
+    <other type="other" dbpedia="Like_Minded_Group" display="LMDCs">Group of Like-Minded</other>
+    <other type="other" dbpedia="African_Group" note="not in dbpedia">African Group</other>
+    <other type="other" dbpedia="African_Group" note="not in dbpedia">the African Group</other>
+    <other type="other" dbpedia="Environmental_Integrity_Group" note="not in dbpedia" display="EIG">Environmental Integrity Group</other>
+    <other type="other" dbpedia="Yugoslavia">Yugoslavia</other>
+    <other type="other" dbpedia="Serbia_and_Montenegro">Serbia and Montenegro</other>
+    <!-- added later -->
+    <other display="AILAC" type="other" dbpedia="Independent_association_of_Latin_America_and_the_Caribbean" note="not checked for dbpedia label">AILAC</other>
+    <other display="AILAC" type="other" dbpedia="Independent_association_of_Latin_America_and_the_Caribbean" note="not checked for dbpedia label">Association of Independent Latin American and Caribbean States</other>
+    <other display="AILAC" type="other" dbpedia="Independent_association_of_Latin_America_and_the_Caribbean" note="not checked for dbpedia label">Independent Alliance of Latin America and the Caribbean</other>
+    <other display="AILAC" type="other" dbpedia="Independent_association_of_Latin_America_and_the_Caribbean" note="not checked for dbpedia label">Alliance of Independent Latin American and Caribbean States</other>
+    <other type="other" display="OPEC" dbpedia="Organization_of_Petroleum_Exporting_Countries" note="not checked for dbpedia label">OPEC</other>
+    <other type="other" display="CACAM" dbpedia="Central_Asia,_Caucasus,_Albania_and_Moldova" note="not checked for dbpedia label">CACAM</other>
+    <other type="other" display="Arab_League" dbpedia="League_of_Arab_States" note="not checked for dbpedia label">Arab League</other>
+    <other type="other" display="Arab_League" dbpedia="League_of_Arab_States" note="not checked for dbpedia label">Arab Group</other>
+    <other type="other" display="Arab_League" dbpedia="League_of_Arab_States" note="not checked for dbpedia label">Arab States Group</other>
+    <other type="other" display="Arab_League" dbpedia="League_of_Arab_States" note="not checked for dbpedia label">Group of Arab States</other>
+    <other type="other" display="OIF" dbpedia="Agence_intergouvernementale_de_la_francophonie" note="not checked for dbpedia label">Organisation internationale de la Francophonie</other>
+    <other type="other" display="OIF" dbpedia="Agence_intergouvernementale_de_la_francophonie" note="not checked for dbpedia label">OIF</other>
+    <other type="other" display="ALBA" dbpedia="Bolivarian_Alliance_For_The_Peoples_Of_Our_America" note="not checked for dbpedia label">ALBA</other>
+    <other type="other" display="ALBA" dbpedia="Bolivarian_Alliance_For_The_Peoples_Of_Our_America" note="not checked for dbpedia label">Bolivarian Alliance</other>
+    <other type="other" display="ALBA" dbpedia="Bolivarian_Alliance_For_The_Peoples_Of_Our_America" note="not checked for dbpedia label">Alliance of Bolivarian States for the Peoples of Our America</other>
+    <other type="other" display="ALBA" dbpedia="Bolivarian_Alliance_For_The_Peoples_Of_Our_America" note="not checked for dbpedia label">Bolivarian States for the Peoples of Our America</other>
+    <other type="other" display="SICA" dbpedia="Central_American_Integration_System" note="not checked for dbpedia label">SICA</other>
+    <other type="other" display="GRULAC" dbpedia="Latin_American_and_Caribbean_Group" note="not checked for dbpedia label">GRULAC</other>
+    <other type="other" display="GRULAC" dbpedia="Latin_American_and_Caribbean_Group" note="not checked for dbpedia label">Group of Latin American and Caribbean States</other>
+    <other type="other" display="GRULAC" dbpedia="Latin_American_and_Caribbean_Group" note="not checked for dbpedia label">Group of Latin American and Caribbean Countries</other>
+    <other type="other" dbpedia="Valdivia_Group" note="not checked for dbpedia label">Valdivia Group</other>
+    <other type="other" dbpedia="Asian_Group" note="not checked for dbpedia label">Asia Group</other>
+    <other type="other" display="CfRN" dbpedia="Coalition_for_Rainforest_Nations" note="not checked for dbpedia label">CfRN</other>
+    <other type="other" display="CfRN" dbpedia="Coalition_for_Rainforest_Nations" note="not checked for dbpedia label">CFRN</other>
+    <other type="other" display="CfRN" dbpedia="Coalition_for_Rainforest_Nations" note="not checked for dbpedia label">Coalition of Rainforest Nations</other>
+    <other type="other" display="CfRN" dbpedia="Coalition_for_Rainforest_Nations" note="not checked for dbpedia label">Rainforest Nations Coalition</other>
+    <other type="other" display="CfRN" dbpedia="Coalition_for_Rainforest_Nations" note="not checked for dbpedia label">Rainforest Nations</other>
+    <other type="other" dbpedia="Eastern_European_group" note="not checked for dbpedia label">EEG</other>
+    <other type="other" dbpedia="Eastern_European_group" note="not checked for dbpedia label">Group of Eastern European Countries</other>
+    <other type="other" dbpedia="Central_America_Group" note="not checked for dbpedia label">Central America Group</other>
+    <other type="other" display="WEOG" dbpedia="Western_European_and_Others_Group" note="not checked for dbpedia label">WEOG</other>
+    <other type="other" display="OECD" dbpedia="Organisation_for_Economic_Co-operation_and_Development" note="not checked for dbpedia label">OECD</other>
+    <other type="other" display="OECD" dbpedia="Organisation_for_Economic_Co-operation_and_Development" note="not checked for dbpedia label">Organization for Economic Cooperation and Development</other>
+    <!-- TODO when implement upper-case sensitive matching, need to add this Brazil, South Africa, India and China	BASIC -->
+  </others>
+</actors>

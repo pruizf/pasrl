@@ -1,0 +1,246 @@
+## indicate an expletive pronoun that should be ignored as an anaphor candidate
+#it would fulfill # this is an example contained in a corpus sentence with coref, for tests
+it was agreed
+it was premature
+it was too
+it was necessary
+it was tabled
+it was important
+it was voluntary
+it was clear
+it was timely
+it was made
+it was just
+it was expected
+it was essential
+it was difficult
+it was appropriate
+it was accurate
+it was possible
+it was outside
+it was crucial
+it was claimed
+it was better
+it was unnecessary
+it was unlikely
+it was unfortunate
+it was unfair
+it was somewhat
+it was reported
+it was received
+it was reasonable
+it was rare
+it was proposed
+it was obvious
+it was left
+it was intended
+it was inappropriate
+it was impractical
+it was good
+it was apparent
+it was not premature
+it was not too
+it was not necessary
+it was not tabled
+it was not important
+it was not voluntary
+it was not clear
+it was not timely
+it was not made
+it was not just
+it was not expected
+it was not essential
+it was not difficult
+it was not appropriate
+it was not accurate
+it was not possible
+it was not outside
+it was not crucial
+it was not claimed
+it was not better
+it was not unnecessary
+it was not unlikely
+it was not unfortunate
+it was not unfair
+it was not somewhat
+it was not reported
+it was not received
+it was not reasonable
+it was not rare
+it was not proposed
+it was not obvious
+it was not left
+it was not intended
+it was not inappropriate
+it was not impractical
+it was not good
+it was not apparent
+# modals or aux
+it should be a
+it would be premature
+it would be difficult
+it will be achieved
+it would be a
+it should be the
+it would be meaningful
+it will be difficult
+it will be a
+it should be sessional
+it would be unacceptable
+it would be reopened
+it would be institutionalized
+it would be covered
+it should be on
+it should be left
+it should be based
+it must be maintained
+it would be triggered
+it would be required
+it would be removed
+it would be reduced
+it would be possible
+it would be necessary
+it would be included
+it would be inappropriate
+it will be useful
+it will be challenging
+it should be streamlined
+it should be elaborated
+it should be consistent
+it must be preserved
+it can be designated
+it would be useful
+it would be irresponsible
+it would be impractical
+it would be appropriate
+it will be proposed
+it will be necessary
+it will be interesting
+it should be possible
+it should be more
+it should be equitably
+it should be conducted
+it should be assessed
+it should be applicable
+it should not be a
+it would not be premature
+it would not be difficult
+it will not be achieved
+it would not be a
+it should not be the
+it would not be meaningful
+it will not be difficult
+it will not be a
+it should not be sessional
+it would not be unacceptable
+it would not be reopened
+it would not be institutionalized
+it would not be covered
+it should not be on
+it should not be left
+it should not be based
+it must not be maintained
+it would not be triggered
+it would not be required
+it would not be removed
+it would not be reduced
+it would not be possible
+it would not be necessary
+it would not be included
+it would not be inappropriate
+it will not be useful
+it will not be challenging
+it should not be streamlined
+it should not be elaborated
+it should not be consistent
+it must not be preserved
+it can not be designated
+it would not be useful
+it would not be irresponsible
+it would not be impractical
+it would not be appropriate
+it will not be proposed
+it will not be necessary
+it will not be interesting
+it should not be possible
+it should not be more
+it should not be equitably
+it should not be conducted
+it should not be assessed
+it should not be applicable
+# other
+it is ``embarrassing''
+it is premature
+it is too
+it is necessary
+it is tabled
+it is important
+it is voluntary
+it is clear
+it is timely
+it is made
+it is just
+it is expected
+it is essential
+it is difficult
+it is appropriate
+it is accurate
+it is possible
+it is outside
+it is crucial
+it is claimed
+it is better
+it is unnecessary
+it is unlikely
+it is unfortunate
+it is unfair
+it is somewhat
+it is reported
+it is received
+it is reasonable
+it is rare
+it is proposed
+it is obvious
+it is left
+it is intended
+it is inappropriate
+it is impractical
+it is good
+it is apparent
+it is not premature
+it is not too
+it is not necessary
+it is not tabled
+it is not important
+it is not voluntary
+it is not clear
+it is not timely
+it is not made
+it is not just
+it is not expected
+it is not essential
+it is not difficult
+it is not appropriate
+it is not accurate
+it is not possible
+it is not outside
+it is not crucial
+it is not claimed
+it is not better
+it is not unnecessary
+it is not unlikely
+it is not unfortunate
+it is not unfair
+it is not somewhat
+it is not reported
+it is not received
+it is not reasonable
+it is not rare
+it is not proposed
+it is not obvious
+it is not left
+it is not intended
+it is not inappropriate
+it is not impractical
+it is not good
+it is not apparent

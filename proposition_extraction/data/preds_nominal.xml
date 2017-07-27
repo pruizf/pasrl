@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf8"?>
+<!-- REPORTING-RELATED NOMINAL PREDICATES (lemmas)
+  rtype [reporting type] := sup(port)|opp(ose)|rep(ort)
+  a pred can have more than one rtype
+
+  They are based on verbal predicates which are a subset of VerbNet
+  verbs. E.g., if had "object" as a verbal predicate for opposition
+  in the verbal predicates file, will have "objection" as a nominal
+  predicate for opposition here. 
+
+  src [source] :=(pb_mnl|...TBD)
+    - pb_mnl: based on verbs from NLTK PropBank, picked manually as
+      judged to be likely to introduce what actors favour/oppose
+      in a political/diplomacy corpus
+  active (bool): if false, the predicate will not be used
+-->
+<preds>
+  <!-- support -->
+  <pred rtype="sup" src="pb_mnl" active="1">acceptance</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">adoption</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">agreement</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">allegation</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">appeal</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">approval</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">bid</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">authorization</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">call</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">commendation</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">compliance</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">concession</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">congratulations</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">defence</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">defense</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">emphasis</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">encouragement</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">endorsement</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">guarantee</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">justification</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">permission</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">pledge</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">preference</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">promise</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">promotion</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">recommendation</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">rectification</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">suggestion</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">support</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">vindication</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">welcoming</pred>
+  <pred rtype="sup" src="pb_mnl" active="1">wish</pred>
+  <!-- oppose -->
+  <pred rtype="opp" src="pb_mnl" active="1">accusation</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">acknowledgement</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">alert</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">apology</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">attack</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">balking</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">banishing</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">ban</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">blame</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">complaint</pred>
+  <pred rtype="opp" src="pb_mnl" active="0">concern</pred><!-- noise -->
+  <pred rtype="opp" src="pb_mnl" active="1">condemnation</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">conflict</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">contradiction</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">criticism</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">decline</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">denial</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">deploring</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">disagreement</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">discouragement</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">dispute</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">distance</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">doubt</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">failure</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">fear</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">frustration</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">lament</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">objection</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">opposition</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">praise</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">prohibition</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">questioning</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">refusal</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">refutation</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">regret</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">rejection</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">resistance</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">validation</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">veto</pred>
+  <pred rtype="opp" src="pb_mnl" active="1">withdrawal</pred>
+  <!-- report -->
+  <pred rtype="rep" src="pb_mnl" active="1">addition</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">address</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">admission</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">allusion</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">announcement</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">answer</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">argument</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">attribution</pred>
+  <pred rtype="rep" src="pb_mnl" active="0">briefing</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">circulation</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">citation</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">claim</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">clarification</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">comment</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">comparison</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">conclusion</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">confirmation</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">consideration</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">corroboration</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">debate</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">declaration</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">demand</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">demonstration</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">description</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">differentiation</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">discussion</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">distinction</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">elaboration</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">enquiry</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">estimate</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">estimation</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">explanation</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">expression</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">identification</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">indication</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">information</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">inquiry</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">inquiry</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">insistence</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">label</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">manifestation</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">mention</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">moderation</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">negotiation</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">note</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">notice</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">notification</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">observation</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">offer</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">perception</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">portrayal</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">presentation</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">proposal</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">question</pred>
+  <pred rtype="rep" src="pb_mnl" active="0">reference</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">reaffirmation</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">realization</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">recognition</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">reconsideration</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">redefinition</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">re-evaluation</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">reformulation</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">reiteration</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">repetition</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">reply</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">report</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">request</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">response</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">restatement</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">revelation</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">review</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">revision</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">scrutiny</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">statement</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">summary</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">supposition</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">synthesis</pred>
+  <pred rtype="rep" src="pb_mnl" active="1">utterance</pred>
+</preds>

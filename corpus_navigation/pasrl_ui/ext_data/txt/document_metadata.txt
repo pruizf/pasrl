@@ -1,0 +1,258 @@
+enb1201e.txt	1	0	New York	1995-02-06	daily
+enb1202e.txt	2	0	New York	1995-02-07	daily
+enb1203e.txt	3	0	New York	1995-02-08	daily
+enb1204e.txt	4	0	New York	1995-02-09	daily
+enb1205e.txt	5	0	New York	1995-02-10	daily
+enb1206e.txt	6	0	New York	1995-02-13	daily
+enb1207e.txt	7	0	New York	1995-02-14	daily
+enb1208e.txt	8	0	New York	1995-02-15	daily
+enb1209e.txt	9	0	New York	1995-02-16	daily
+enb1210e.txt	10	0	New York	1995-02-17	daily
+enb1211e.txt	11	0	New York	1995-02-17	summary
+enb1212e.txt	12	1	Berlin	1995-03-28	daily
+enb1213e.txt	13	1	Berlin	1995-03-29	daily
+enb1214e.txt	14	1	Berlin	1995-03-30	daily
+enb1215e.txt	15	1	Berlin	1995-03-31	daily
+enb1216e.txt	16	1	Berlin	1995-04-03	daily
+enb1217e.txt	17	1	Berlin	1995-04-04	daily
+enb1218e.txt	18	1	Berlin	1995-04-05	daily
+enb1219e.txt	19	1	Berlin	1995-04-06	daily
+enb1220e.txt	20	1	Berlin	1995-04-07	daily
+enb1221e.txt	21	1	Berlin	1995-04-07	summary
+enb1228e.txt	28	2	Geneva	1996-07-08	daily
+enb1229e.txt	29	2	Geneva	1996-07-09	daily
+enb1230e.txt	30	2	Geneva	1996-07-10	daily
+enb1231e.txt	31	2	Geneva	1996-07-11	daily
+enb1232e.txt	32	2	Geneva	1996-07-12	daily
+enb1233e.txt	33	2	Geneva	1996-07-15	daily
+enb1234e.txt	34	2	Geneva	1996-07-16	daily
+enb1235e.txt	35	2	Geneva	1996-07-17	daily
+enb1236e.txt	36	2	Geneva	1996-07-18	daily
+enb1237e.txt	37	2	Geneva	1996-07-19	daily
+enb1238e.txt	38	2	Geneva	1996-07-19	summary
+enb1267e.txt	67	3	Kyoto	1997-12-01	daily
+enb1268e.txt	68	3	Kyoto	1997-12-02	daily
+enb1269e.txt	69	3	Kyoto	1997-12-03	daily
+enb1270e.txt	70	3	Kyoto	1997-12-04	daily
+enb1271e.txt	71	3	Kyoto	1997-12-05	daily
+enb1272e.txt	72	3	Kyoto	1997-12-06	daily
+enb1273e.txt	73	3	Kyoto	1997-12-08	daily
+enb1274e.txt	74	3	Kyoto	1997-12-09	daily
+enb1275e.txt	75	3	Kyoto	1997-12-10	daily
+enb1276e.txt	76	3	Kyoto	1997-12-11	summary
+enb1287e.txt	87	4	Buenos Aires	1998-11-02	daily
+enb1288e.txt	88	4	Buenos Aires	1998-11-03	daily
+enb1289e.txt	89	4	Buenos Aires	1998-11-04	daily
+enb1290e.txt	90	4	Buenos Aires	1998-11-05	daily
+enb1291e.txt	91	4	Buenos Aires	1998-11-06	daily
+enb1292e.txt	92	4	Buenos Aires	1998-11-09	daily
+enb1293e.txt	93	4	Buenos Aires	1998-11-10	daily
+enb1294e.txt	94	4	Buenos Aires	1998-11-11	daily
+enb1295e.txt	95	4	Buenos Aires	1998-11-12	daily
+enb1296e.txt	96	4	Buenos Aires	1998-11-13	daily
+enb1297e.txt	97	4	Buenos Aires	1998-11-13	summary
+enb12112e.txt	112	5	Bonn	1999-10-25	daily
+enb12113e.txt	113	5	Bonn	1999-10-26	daily
+enb12114e.txt	114	5	Bonn	1999-10-27	daily
+enb12115e.txt	115	5	Bonn	1999-10-28	daily
+enb12116e.txt	116	5	Bonn	1999-10-29	daily
+enb12117e.txt	117	5	Bonn	1999-10-30	daily
+enb12118e.txt	118	5	Bonn	1999-11-01	daily
+enb12119e.txt	119	5	Bonn	1999-11-02	daily
+enb12120e.html	120	5	Bonn	1999-11-03	daily
+enb12121e.txt	121	5	Bonn	1999-11-04	daily
+enb12122e.txt	122	5	Bonn	1999-11-05	daily
+enb12123e.txt	123	5	Bonn	1999-11-08	summary
+enb12152e.txt	152	6	The Hague	2000-11-13	daily
+enb12153e.txt	153	6	The Hague	2000-11-14	daily
+enb12154e.txt	154	6	The Hague	2000-11-15	daily
+enb12155e.txt	155	6	The Hague	2000-11-16	daily
+enb12156e.txt	156	6	The Hague	2000-11-17	daily
+enb12157e.txt	157	6	The Hague	2000-11-18	daily
+enb12158e.txt	158	6	The Hague	2000-11-20	daily
+enb12159e.txt	159	6	The Hague	2000-11-21	daily
+enb12160e.txt	160	6	The Hague	2000-11-22	daily
+enb12161e.txt	161	6	The Hague	2000-11-23	daily
+enb12162e.txt	162	6	The Hague	2000-11-24	daily
+enb12163e.txt	163	6	The Hague	2000-11-27	summary
+enb12166e.txt	166	06bis	Bonn	2001-07-16	daily
+enb12167e.txt	167	06bis	Bonn	2001-07-17	daily
+enb12168e.txt	168	06bis	Bonn	2001-07-18	daily
+enb12169e.txt	169	06bis	Bonn	2001-07-19	daily
+enb12170e.txt	170	06bis	Bonn	2001-07-20	daily
+enb12171e.txt	171	06bis	Bonn	2001-07-21	daily
+enb12172e.txt	172	06bis	Bonn	2001-07-24	daily
+enb12173e.txt	173	06bis	Bonn	2001-07-25	daily
+enb12174e.txt	174	06bis	Bonn	2001-07-26	daily
+enb12175e.txt	175	06bis	Bonn	2001-07-27	daily
+enb12176e.txt	176	06bis	Bonn	2001-07-30	summary
+enb12178e.txt	178	7	Marrakech	2001-10-29	daily
+enb12179e.txt	179	7	Marrakech	2001-10-30	daily
+enb12180e.txt	180	7	Marrakech	2001-10-31	daily
+enb12181e.txt	181	7	Marrakech	2001-11-01	daily
+enb12182e.txt	182	7	Marrakech	2001-11-02	daily
+enb12183e.txt	183	7	Marrakech	2001-11-03	daily
+enb12184e.txt	184	7	Marrakech	2001-11-05	daily
+enb12185e.txt	185	7	Marrakech	2001-11-06	daily
+enb12186e.txt	186	7	Marrakech	2001-11-07	daily
+enb12187e.txt	187	7	Marrakech	2001-11-08	daily
+enb12188e.txt	188	7	Marrakech	2001-11-09	daily
+enb12189e.txt	189	7	Marrakech	2001-11-12	summary
+enb12201e.txt	201	8	New Delhi	2002-10-23	daily
+enb12202e.txt	202	8	New Delhi	2002-10-24	daily
+enb12203e.txt	203	8	New Delhi	2002-10-25	daily
+enb12204e.txt	204	8	New Delhi	2002-10-26	daily
+enb12205e.txt	205	8	New Delhi	2002-10-29	daily
+enb12206e.txt	206	8	New Delhi	2002-10-30	daily
+enb12207e.txt	207	8	New Delhi	2002-10-31	daily
+enb12208e.txt	208	8	New Delhi	2002-11-01	daily
+enb12209e.txt	209	8	New Delhi	2002-11-04	summary
+enb12221e.txt	221	9	Milan	2003-12-01	daily
+enb12222e.txt	222	9	Milan	2003-12-02	daily
+enb12223e.txt	223	9	Milan	2003-12-03	daily
+enb12224e.txt	224	9	Milan	2003-12-04	daily
+enb12225e.txt	225	9	Milan	2003-12-05	daily
+enb12226e.txt	226	9	Milan	2003-12-06	daily
+enb12227e.txt	227	9	Milan	2003-12-07	daily
+enb12228e.txt	228	9	Milan	2003-12-10	daily
+enb12229e.txt	229	9	Milan	2003-12-11	daily
+enb12230e.txt	230	9	Milan	2003-12-12	daily
+enb12231e.txt	231	9	Milan	2003-12-15	summary
+enb12249e.txt	249	10	Buenos Aires	2004-12-06	daily
+enb12250e.txt	250	10	Buenos Aires	2004-12-07	daily
+enb12251e.txt	251	10	Buenos Aires	2004-12-08	daily
+enb12252e.txt	252	10	Buenos Aires	2004-12-09	daily
+enb12253e.txt	253	10	Buenos Aires	2004-12-10	daily
+enb12254e.txt	254	10	Buenos Aires	2004-12-11	daily
+enb12255e.txt	255	10	Buenos Aires	2004-12-13	daily
+enb12256e.txt	256	10	Buenos Aires	2004-12-14	daily
+enb12257e.txt	257	10	Buenos Aires	2004-12-15	daily
+enb12258e.txt	258	10	Buenos Aires	2004-12-16	daily
+enb12259e.txt	259	10	Buenos Aires	2004-12-17	daily
+enb12260e.txt	260	10	Buenos Aires	2004-12-18	summary
+enb12280e.txt	280	11	Montréal	2005-11-28	daily
+enb12281e.txt	281	11	Montréal	2005-11-29	daily
+enb12282e.txt	282	11	Montréal	2005-11-30	daily
+enb12283e.txt	283	11	Montréal	2005-12-01	daily
+enb12284e.txt	284	11	Montréal	2005-12-02	daily
+enb12285e.txt	285	11	Montréal	2005-12-03	daily
+enb12286e.txt	286	11	Montréal	2005-12-05	daily
+enb12287e.txt	287	11	Montréal	2005-12-06	daily
+enb12288e.txt	288	11	Montréal	2005-12-07	daily
+enb12289e.txt	289	11	Montréal	2005-12-08	daily
+enb12290e.txt	290	11	Montréal	2005-12-09	daily
+enb12291e.txt	291	11	Montréal	2005-12-09	summary
+enb12307e.html	307	12	Nairobi	2006-11-06	daily
+enb12308e.html	308	12	Nairobi	2006-11-07	daily
+enb12309e.html	309	12	Nairobi	2006-11-08	daily
+enb12310e.html	310	12	Nairobi	2006-11-09	daily
+enb12311e.html	311	12	Nairobi	2006-11-10	daily
+enb12312e.html	312	12	Nairobi	2006-11-11	daily
+enb12313e.html	313	12	Nairobi	2006-11-13	daily
+enb12314e.html	314	12	Nairobi	2006-11-14	daily
+enb12315e.html	315	12	Nairobi	2006-11-15	daily
+enb12316e.html	316	12	Nairobi	2006-11-16	daily
+enb12317e.html	317	12	Nairobi	2006-11-17	daily
+enb12318e.html	318	12	Nairobi	2006-11-17	summary
+enb12343e.html	343	13	Bali	2007-12-03	daily
+enb12344e.html	344	13	Bali	2007-12-04	daily
+enb12345e.html	345	13	Bali	2007-12-05	daily
+enb12346e.html	346	13	Bali	2007-12-06	daily
+enb12347e.html	347	13	Bali	2007-12-07	daily
+enb12348e.html	348	13	Bali	2007-12-08	daily
+enb12349e.html	349	13	Bali	2007-12-10	daily
+enb12350e.html	350	13	Bali	2007-12-11	daily
+enb12351e.html	351	13	Bali	2007-12-12	daily
+enb12352e.html	352	13	Bali	2007-12-13	daily
+enb12353e.html	353	13	Bali	2007-12-14	daily
+enb12354e.html	354	13	Bali	2007-12-15	summary
+enb12385e.html	385	14	Poznań	2008-12-01	daily
+enb12386e.html	386	14	Poznań	2008-12-02	daily
+enb12387e.html	387	14	Poznań	2008-12-03	daily
+enb12388e.html	388	14	Poznań	2008-12-04	daily
+enb12389e.html	389	14	Poznań	2008-12-05	daily
+enb12390e.html	390	14	Poznań	2008-12-06	daily
+enb12391e.html	391	14	Poznań	2008-12-09	daily
+enb12392e.html	392	14	Poznań	2008-12-10	daily
+enb12393e.html	393	14	Poznań	2008-12-11	daily
+enb12394e.html	394	14	Poznań	2008-12-12	daily
+enb12395e.html	395	14	Poznań	2008-12-12	summary
+enb12448e.html	448	15	Copenhagen	2009-12-07	daily
+enb12449e.html	449	15	Copenhagen	2009-12-08	daily
+enb12450e.html	450	15	Copenhagen	2009-12-09	daily
+enb12451e.html	451	15	Copenhagen	2009-12-10	daily
+enb12452e.html	452	15	Copenhagen	2009-12-11	daily
+enb12453e.html	453	15	Copenhagen	2009-12-12	daily
+enb12454e.html	454	15	Copenhagen	2009-12-14	daily
+enb12455e.html	455	15	Copenhagen	2009-12-15	daily
+enb12456e.html	456	15	Copenhagen	2009-12-16	daily
+enb12457e.html	457	15	Copenhagen	2009-12-17	daily
+enb12458e.html	458	15	Copenhagen	2009-12-18	daily
+enb12459e.html	459	15	Copenhagen	2009-12-19	summary
+enb12487e.html	487	16	Cancún	2010-11-29	daily
+enb12488e.html	488	16	Cancún	2010-11-30	daily
+enb12489e.html	489	16	Cancún	2010-12-01	daily
+enb12490e.html	490	16	Cancún	2010-12-02	daily
+enb12491e.html	491	16	Cancún	2010-12-03	daily
+enb12492e.html	492	16	Cancún	2010-12-04	daily
+enb12493e.html	493	16	Cancún	2010-12-06	daily
+enb12494e.html	494	16	Cancún	2010-12-07	daily
+enb12495e.html	495	16	Cancún	2010-12-08	daily
+enb12496e.html	496	16	Cancún	2010-12-09	daily
+enb12497e.html	497	16	Cancún	2010-12-10	daily
+enb12498e.html	498	16	Cancún	2010-12-11	summary
+enb12523e.html	523	17	Durban	2011-11-28	daily
+enb12524e.html	524	17	Durban	2011-11-29	daily
+enb12525e.html	525	17	Durban	2011-11-30	daily
+enb12526e.html	526	17	Durban	2011-12-01	daily
+enb12527e.html	527	17	Durban	2011-12-02	daily
+enb12528e.html	528	17	Durban	2011-12-03	daily
+enb12529e.html	529	17	Durban	2011-12-05	daily
+enb12530e.html	530	17	Durban	2011-12-06	daily
+enb12531e.html	531	17	Durban	2011-12-07	daily
+enb12532e.html	532	17	Durban	2011-12-08	daily
+enb12533e.html	533	17	Durban	2011-12-09	daily
+enb12534e.html	534	17	Durban	2011-12-09	summary
+enb12556e.html	556	18	Doha	2012-11-26	daily
+enb12557e.html	557	18	Doha	2012-11-27	daily
+enb12558e.html	558	18	Doha	2012-11-28	daily
+enb12559e.html	559	18	Doha	2012-11-29	daily
+enb12560e.html	560	18	Doha	2012-11-30	daily
+enb12561e.html	561	18	Doha	2012-12-01	daily
+enb12562e.html	562	18	Doha	2012-12-03	daily
+enb12563e.html	563	18	Doha	2012-12-04	daily
+enb12564e.html	564	18	Doha	2012-12-05	daily
+enb12565e.html	565	18	Doha	2012-12-06	daily
+enb12566e.html	566	18	Doha	2012-12-07	daily
+enb12567e.html	567	18	Doha	2012-12-08	summary
+enb12583e.html	583	19	Warsaw	2013-11-11	daily
+enb12584e.html	584	19	Warsaw	2013-11-12	daily
+enb12585e.html	585	19	Warsaw	2013-11-13	daily
+enb12586e.html	586	19	Warsaw	2013-11-14	daily
+enb12587e.html	587	19	Warsaw	2013-11-15	daily
+enb12588e.html	588	19	Warsaw	2013-11-16	daily
+enb12589e.html	589	19	Warsaw	2013-11-18	daily
+enb12590e.html	590	19	Warsaw	2013-11-19	daily
+enb12591e.html	591	19	Warsaw	2013-11-20	daily
+enb12592e.html	592	19	Warsaw	2013-11-21	daily
+enb12593e.html	593	19	Warsaw	2013-11-22	daily
+enb12594e.html	594	19	Warsaw	2013-11-23	summary
+enb12608e.html	608	20a	Lima	2014-12-01	daily
+enb12609e.html	609	20a	Lima	2014-12-02	daily
+enb12610e.html	610	20a	Lima	2014-12-03	daily
+enb12611e.html	611	20a	Lima	2014-12-04	daily
+enb12612e.html	612	20a	Lima	2014-12-05	daily
+enb12613e.html	613	20a	Lima	2014-12-06	daily
+enb12614e.html	614	20a	Lima	2014-12-08	daily
+enb12615e.html	615	20a	Lima	2014-12-09	daily
+enb12616e.html	616	20a	Lima	2014-12-10	daily
+enb12617e.html	617	20a	Lima	2014-12-11	daily
+enb12618e.html	618	20a	Lima	2014-12-12	daily
+enb12619e.html	619	20a	Lima	2014-12-14	summary
+enb12620e.html	620	20b	Geneva	2015-02-08	daily
+enb12621e.html	621	20b	Geneva	2015-02-09	daily
+enb12622e.html	622	20b	Geneva	2015-02-10	daily
+enb12623e.html	623	20b	Geneva	2015-02-11	daily
+enb12624e.html	624	20b	Geneva	2015-02-12	daily
+enb12625e.html	625	20b	Geneva	2015-02-13	daily
+enb12626e.html	626	20b	Geneva	2015-02-13	summary

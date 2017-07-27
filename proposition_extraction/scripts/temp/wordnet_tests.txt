@@ -1,0 +1,44 @@
+"""Notes about testing NLTK WN interface"""
+
+__author__ = 'Pablo Ruiz'
+__date__ = '21/09/15'
+
+""">>> for synset in list(wn.synsets('approval')):
+	print synset.lemma_names()
+	for lem in synset.lemmas():
+		print lem.name(), lem.key()
+	print "====="
+
+
+[u'blessing', u'approval', u'approving']
+blessing blessing%1:04:01::
+approval approval%1:04:02::
+approving approving%1:04:00::
+=====
+[u'approval']
+approval approval%1:12:00::
+=====
+[u'approval', u'favorable_reception', u'favourable_reception']
+approval approval%1:26:00::
+favorable_reception favorable_reception%1:26:00::
+favourable_reception favourable_reception%1:26:00::
+=====
+[u'approval', u'commendation']
+approval approval%1:10:00::
+commendation commendation%1:10:01::
+=====
+
+IXA PREDICATE MATRIX COLUMNS
+
+2 and 4 vnClass
+4 is key to 2
+the one right after ili (12) is FrameNet
+ili is 11
+
+check if should extend the set of predicates ...
+there would be several ways, you can refer to the externalReferences (by ILI) or
+fish for predicates with the wordnet sense key (the % thing accessible from NLTK)
+
+>>> for synset in list(wn.all_synsets('v'))[:1]:
+	for lem in synset.lemmas():
+		print lem.name(), lem.key()"""
