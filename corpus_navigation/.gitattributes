@@ -10,10 +10,3 @@
 # Don't diff or textually merge source maps
 *.map   binary
 
-bootstrap-theme.css linguist-vendored=true
-bootstrap.css linguist-vendored=true
-bootstrap.js linguist-vendored=true
-bootstrap-slider.js linguist-vendored=true
-respond.min.js linguist-vendored=true
-html5shiv.min.js linguist-vendored=true
-bootstrap.min.js linguist-vendored=true
