@@ -17,6 +17,7 @@ A Natural Language Processing Pipeline (NLP) was applied to climate negotiation 
 
 Actors, their concerns, and their relation to other actors was identified based on the outputs of the NLP pipeline.
 
+The results can be navigated on a user interface.
 
 System Architecture
 -------------------
